@@ -1,0 +1,110 @@
+log_dir: /home/lsavchenko/bdeeb_mipt_research/research_for_hpc/Models/seed_retraining/starganv2vc_inferred_cremad_seeded_experiment/seed_17
+save_freq: 5
+device: cuda
+epochs: 30
+batch_size: 5
+pretrained_model: ''
+load_only_params: false
+finetune: false
+fp16_run: true
+train_data: Data/cremad_train_list_emo_speaker_disjoint.txt
+val_data: Data/cremad_val_list_emo_speaker_disjoint_20.txt
+dataset_params:
+  mean: -2.963975
+  std: 3.228047
+F0_path: Utils/JDC/bst.t7
+ASR_config: Utils/ASR/config.yml
+ASR_path: Utils/ASR/epoch_00100.pth
+preprocess_params:
+  sr: 24000
+  spect_params:
+    n_fft: 2048
+    win_length: 1200
+    hop_length: 300
+model_params:
+  dim_in: 64
+  style_dim: 64
+  latent_dim: 16
+  num_domains: 5
+  max_conv_dim: 512
+  n_repeat: 4
+  w_hpf: 0
+  F0_channel: 256
+  rank_enable: false
+  rank_hidden_dim: 128
+loss_params:
+  g_loss:
+    lambda_sty: 1.0
+    lambda_cyc: 5.0
+    lambda_ds: 1.0
+    lambda_norm: 1.0
+    lambda_asr: 10.0
+    lambda_f0: 5.0
+    lambda_f0_sty: 0.1
+    lambda_adv: 2.0
+    lambda_adv_cls: 0.5
+    norm_bias: 0.5
+  d_loss:
+    lambda_reg: 1.0
+    lambda_adv_cls: 0.1
+    lambda_con_reg: 10.0
+  rank_loss:
+    neutral_label: 2
+    lambda_rank_margin: 0.2
+    lambda_rank_interp: 0.2
+    lambda_rank_mono: 0.1
+    rank_margin: 0.2
+    rank_margin_alpha: 0.05
+    rank_eps: 1.0e-06
+    intensity_alpha_min: 0.0
+    intensity_alpha_max: 1.0
+  adv_cls_epoch: 50
+  con_reg_epoch: 30
+optimizer_params:
+  lr: 1.0e-05
+  rank_lr: 1.0e-05
+seed: 17
+seed_protocol:
+  validate_every: 5
+  evaluation_seed: 123
+  deterministic: false
+  alphas:
+  - 0.0
+  - 0.2
+  - 0.4
+  - 0.6
+  - 0.8
+  - 1.0
+  validation_manifests:
+    ssst: Data/cremad_speaker_disjoint_validation_manifest_20_80.csv
+  test_manifests:
+    ssst: Data/cremad_speaker_disjoint_test_manifest_20_80.csv
+wandb:
+  mode: offline
+  project: evc-resubmission
+  entity: null
+  group: starganv2vc_inferred_cremad_seeded_experiment
+selection_rule: Select the checkpoint with the best emotion accuracy metric on the
+  validation set
+input_sha256:
+  /home/lsavchenko/bdeeb_mipt_research/research_for_hpc/Configs/config_emo_inferred_intensity_cremad_pretrained.yml: b37c2b237e05ea31cf2b360a7c88e459ff289bfce8e75f37df3c9961cac8097b
+  /home/lsavchenko/bdeeb_mipt_research/research_for_hpc/Data/cremad_train_list_emo_speaker_disjoint.txt: 04a5350b831fcab902d3ef9cadf2613fe84acbd35e1ba4220df5295f9a754fcc
+  /home/lsavchenko/bdeeb_mipt_research/research_for_hpc/Data/cremad_val_list_emo_speaker_disjoint_20.txt: 654080e60ab6ce053204f22f57dadb28ee99913f69922d2680f43e557471d207
+  /home/lsavchenko/bdeeb_mipt_research/research_for_hpc/Data/cremad_speaker_disjoint_validation_manifest_20_80.csv: 98617ffb24f0139424944611c7887744f7c6bda7dfd2dc655a6855337eb42b5e
+  /home/lsavchenko/bdeeb_mipt_research/research_for_hpc/Data/cremad_speaker_disjoint_test_manifest_20_80.csv: 73a4e0adc64cc72ddbc0140eb4d07502c970fa868ff3a31fbe7f6aea84b2fe98
+code_sha256:
+  train.py: c3d299002292e5ad8307761c0f278c3f6a67042ba5e706bb6c7264f317b393a8
+  trainer.py: 4567d4e058c43a9c3db65d515957c64d8b0545144b32c248536cf89631ed8366
+  meldataset.py: 920b920e0298976aba2897891385abc5f1c5970cc1e14d776f3d6152adcc9c09
+  models.py: 071a2adead74ecb9ee23cd447fe35b8a257d6aae963de40424cf4b0fd1ef865b
+  losses.py: 2da1b77dfa083158d5331ba72ed872a94d97250b7eb0669eacd8cbcfaf154898
+  optimizers.py: 6f5d1eb3466fa923c98cf23b8d3f096fd75d4dcc1dc961616701948b0f4ae8e7
+  seed_support.py: 2774eb79c91df75e4c33f42adb0a4c9f2d878825bab1380570492b000383b0b9
+  scripts/run_balanced_benchmark_eval.py: d1ed843e41bdf7969addde1e7c819b28ef9c4ab338aa4cde9cad5cb92c704125
+  scripts/seeded_evaluate.py: 7d3bbc9a85da67013cdb732f6599d5891b996922b0b37579b14220174161f959
+  scripts/run_inferred_seeds.py: e423eed4b1afe676941f4217b9bbce21945c89d8308398229c932f23254fad95
+split_audit:
+  train_wavs: 2684
+  validation_loss_wavs: 220
+  validation_sweep_wavs: 220
+  test_wavs: 836

@@ -1,0 +1,13 @@
+Models/
+Vocoder/*.pkl
+pretrained_models/
+Data/ESD_DATA_24KHz/
+Data/CREMA-D/
+Data/external_baselines*/
+experiments/**/audio/
+experiments/**/*_eval_*/
+experiments/**/*_outputs/
+experiments/external_repos/
+__pycache__/
+*.py[cod]
+.venv/

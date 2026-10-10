@@ -1,0 +1,40 @@
+{
+  "input_sha256": {
+    "supplement/listening-clip-means.csv": "0ef1768f4098f4054ca717934daa729bc7d9876680db1949f4852ff7d7bf9997",
+    "supplement/tradeoff-curves-95ci.csv": "7ba9ea06f33182fe4d85cc0478dd29e5e2c74e542bbc79a2086823ef0ffffb41"
+  },
+  "clip_means_match_saved_curves": true,
+  "correlations": [
+    {
+      "model_variant": "inferred",
+      "condition": "ssst",
+      "clips": 36,
+      "pair_families": 12,
+      "spearman_alpha_strength": 0.5374184523452127
+    },
+    {
+      "model_variant": "native",
+      "condition": "ssst",
+      "clips": 36,
+      "pair_families": 12,
+      "spearman_alpha_strength": 0.34421992698716763
+    },
+    {
+      "model_variant": "inferred",
+      "condition": "dsst",
+      "clips": 36,
+      "pair_families": 12,
+      "spearman_alpha_strength": 0.3258342291487503
+    },
+    {
+      "model_variant": "native",
+      "condition": "dsst",
+      "clips": 36,
+      "pair_families": 12,
+      "spearman_alpha_strength": 0.5186086366739248
+    }
+  ],
+  "new_experiments": 0,
+  "new_intervals": 0,
+  "snapshot": "3 October 2026; 762 completed ratings"
+}

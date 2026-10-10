@@ -1,0 +1,232 @@
+{
+  "metric": "emotion_ref_cosine",
+  "source": "supplement/all-model-curves-with-95ci.csv",
+  "source_sha256": "55bb218a4ade83affa4a4ce087a3d55fed82495d70f294724c6788a06ee64b26",
+  "curves": [
+    {
+      "setting": "esd-ssst",
+      "model": "MODEL_inferred_intensity",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": true
+    },
+    {
+      "setting": "esd-ssst",
+      "model": "MODEL_native_intensity_ranker",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": true
+    },
+    {
+      "setting": "esd-ssst",
+      "model": "MODEL_native_intensity_speaker_cls",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": true
+    },
+    {
+      "setting": "esd-ssst",
+      "model": "CycleGAN",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": false
+    },
+    {
+      "setting": "esd-dsst",
+      "model": "MODEL_inferred_intensity",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": true
+    },
+    {
+      "setting": "esd-dsst",
+      "model": "MODEL_native_intensity_ranker",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": true
+    },
+    {
+      "setting": "esd-dsst",
+      "model": "MODEL_native_intensity_speaker_cls",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": true
+    },
+    {
+      "setting": "esd-dsst",
+      "model": "CycleGAN",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": false
+    },
+    {
+      "setting": "cremad",
+      "model": "MODEL_inferred_intensity",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": true
+    },
+    {
+      "setting": "cremad",
+      "model": "MODEL_native_intensity_ranker",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": true
+    },
+    {
+      "setting": "cremad",
+      "model": "MODEL_native_intensity_speaker_cls",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": true
+    },
+    {
+      "setting": "cremad",
+      "model": "CycleGAN",
+      "alpha_values": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "alpha_labels": [
+        0,
+        0.6,
+        1
+      ],
+      "has_seed_ci": false
+    }
+  ],
+  "alpha_labels": 36,
+  "outputs": [
+    "figures/all-model-emotion-reference-frontiers.pdf",
+    "figures/all-model-emotion-reference-frontiers.png",
+    "figures/all-model-emotion-reference-frontiers.svg"
+  ],
+  "layout": "one row, three columns",
+  "ci_style": "unchanged intervals; opacity 0.14 with faint 0.035 soft underlay; behind mean curves",
+  "experiments_run": 0
+}

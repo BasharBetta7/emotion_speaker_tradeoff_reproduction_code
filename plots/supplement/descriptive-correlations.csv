@@ -1,0 +1,21 @@
+model,condition,automatic,human,clips,spearman_rho,inference
+all,all,emotion_conf,emotion_strength,144,0.2701515850238154,descriptive; equal clip weights; no p-value or CI
+all,all,emotion_ref_cosine,emotion_strength,144,0.2409994132256496,descriptive; equal clip weights; no p-value or CI
+all,all,emotion_acc,perceived_accuracy,144,0.3626377047588945,descriptive; equal clip weights; no p-value or CI
+all,all,speaker_cosine,speaker_similarity,144,0.6327589395346849,descriptive; equal clip weights; no p-value or CI
+inferred,dsst,emotion_conf,emotion_strength,36,0.11408018308857963,descriptive; equal clip weights; no p-value or CI
+inferred,dsst,emotion_ref_cosine,emotion_strength,36,0.15391770734173432,descriptive; equal clip weights; no p-value or CI
+inferred,dsst,emotion_acc,perceived_accuracy,36,0.2629024654051694,descriptive; equal clip weights; no p-value or CI
+inferred,dsst,speaker_cosine,speaker_similarity,36,0.650571905308638,descriptive; equal clip weights; no p-value or CI
+inferred,ssst,emotion_conf,emotion_strength,36,0.29308776136389947,descriptive; equal clip weights; no p-value or CI
+inferred,ssst,emotion_ref_cosine,emotion_strength,36,0.28725710298132856,descriptive; equal clip weights; no p-value or CI
+inferred,ssst,emotion_acc,perceived_accuracy,36,0.3492034426445976,descriptive; equal clip weights; no p-value or CI
+inferred,ssst,speaker_cosine,speaker_similarity,36,0.5632275730975332,descriptive; equal clip weights; no p-value or CI
+native,dsst,emotion_conf,emotion_strength,36,0.37914638618807434,descriptive; equal clip weights; no p-value or CI
+native,dsst,emotion_ref_cosine,emotion_strength,36,0.2990468595497062,descriptive; equal clip weights; no p-value or CI
+native,dsst,emotion_acc,perceived_accuracy,36,0.43181434513149414,descriptive; equal clip weights; no p-value or CI
+native,dsst,speaker_cosine,speaker_similarity,36,0.7247683519764162,descriptive; equal clip weights; no p-value or CI
+native,ssst,emotion_conf,emotion_strength,36,0.30269630141692827,descriptive; equal clip weights; no p-value or CI
+native,ssst,emotion_ref_cosine,emotion_strength,36,0.2566314440594165,descriptive; equal clip weights; no p-value or CI
+native,ssst,emotion_acc,perceived_accuracy,36,0.41665862934778713,descriptive; equal clip weights; no p-value or CI
+native,ssst,speaker_cosine,speaker_similarity,36,0.23562318499673354,descriptive; equal clip weights; no p-value or CI

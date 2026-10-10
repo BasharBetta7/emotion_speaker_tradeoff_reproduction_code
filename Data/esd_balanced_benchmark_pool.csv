@@ -1,0 +1,1001 @@
+file_id	speaker_id	text	emotion	wav_path	metadata_source
+0013_000003	13	That I owe my thanks to you.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000003.wav	esd_train.csv
+0013_000004	13	They went up to the dark mass job had pointed out.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000004.wav	esd_train.csv
+0013_000005	13	Clear than clear water!	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000005.wav	esd_train.csv
+0013_000007	13	I'm as bad as I can be.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000007.wav	esd_train.csv
+0013_000008	13	That was his chief thought.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000008.wav	esd_train.csv
+0013_000009	13	On the twenty second of last march.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000009.wav	esd_train.csv
+0013_000010	13	A nauseous draught.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000010.wav	esd_train.csv
+0013_000011	13	Chapter ten a warm welcome.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000011.wav	esd_train.csv
+0013_000012	13	Her shoes were like fishes.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000012.wav	esd_train.csv
+0013_000013	13	I have bunburyed all over goat on two separate occasions.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000013.wav	esd_train.csv
+0013_000014	13	Annie please please don't hurt me!	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000014.wav	esd_train.csv
+0013_000016	13	Mister share man, I move for a division.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000016.wav	esd_train.csv
+0013_000019	13	At the end of four.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000019.wav	esd_train.csv
+0013_000022	13	And what are doves. And what are doves.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000022.wav	esd_train.csv
+0013_000023	13	I thought you meant how old are you?	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000023.wav	esd_train.csv
+0013_000025	13	She is now choosing skirt to wear.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000025.wav	esd_train.csv
+0013_000027	13	Monster made a deep bow.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000027.wav	esd_train.csv
+0013_000029	13	Rat came and replied on the leaves.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000029.wav	esd_train.csv
+0013_000030	13	Must a name mean something?	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000030.wav	esd_train.csv
+0013_000033	13	This used to be Jerry's occupation.	Neutral	Data/ESD_DATA_24KHz/0013/Neutral/0013_000033.wav	esd_train.csv
+0013_000353	13	That I owe my thanks to you.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000353.wav	esd_train.csv
+0013_000354	13	They went up to the dark mass job had pointed out.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000354.wav	esd_train.csv
+0013_000355	13	Clear than clear water!	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000355.wav	esd_train.csv
+0013_000357	13	I'm as bad as I can be.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000357.wav	esd_train.csv
+0013_000358	13	That was his chief thought.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000358.wav	esd_train.csv
+0013_000359	13	On the twenty second of last march.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000359.wav	esd_train.csv
+0013_000360	13	A nauseous draught.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000360.wav	esd_train.csv
+0013_000361	13	Chapter ten a warm welcome.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000361.wav	esd_train.csv
+0013_000362	13	Her shoes were like fishes.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000362.wav	esd_train.csv
+0013_000363	13	I have bunburyed all over goat on two separate occasions.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000363.wav	esd_train.csv
+0013_000364	13	Annie please please don't hurt me!	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000364.wav	esd_train.csv
+0013_000366	13	Mister share man, I move for a division.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000366.wav	esd_train.csv
+0013_000369	13	At the end of four.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000369.wav	esd_train.csv
+0013_000372	13	And what are doves. And what are doves.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000372.wav	esd_train.csv
+0013_000373	13	I thought you meant how old are you?	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000373.wav	esd_train.csv
+0013_000375	13	She is now choosing skirt to wear.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000375.wav	esd_train.csv
+0013_000377	13	Monster made a deep bow.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000377.wav	esd_train.csv
+0013_000379	13	Rat came and replied on the leaves.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000379.wav	esd_train.csv
+0013_000380	13	Must a name mean something?	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000380.wav	esd_train.csv
+0013_000383	13	This used to be Jerry's occupation.	Angry	Data/ESD_DATA_24KHz/0013/Angry/0013_000383.wav	esd_train.csv
+0013_000703	13	That I owe my thanks to you.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000703.wav	esd_train.csv
+0013_000704	13	They went up to the dark mass job had pointed out.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000704.wav	esd_train.csv
+0013_000705	13	Clear than clear water!	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000705.wav	esd_train.csv
+0013_000707	13	I'm as bad as I can be.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000707.wav	esd_train.csv
+0013_000708	13	That was his chief thought.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000708.wav	esd_train.csv
+0013_000709	13	On the twenty second of last march.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000709.wav	esd_train.csv
+0013_000710	13	A nauseous draught.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000710.wav	esd_train.csv
+0013_000711	13	Chapter ten a warm welcome.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000711.wav	esd_train.csv
+0013_000712	13	Her shoes were like fishes.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000712.wav	esd_train.csv
+0013_000713	13	I have bunburyed all over goat on two separate occasions.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000713.wav	esd_train.csv
+0013_000714	13	Annie please please don't hurt me!	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000714.wav	esd_train.csv
+0013_000716	13	Mister share man, I move for a division.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000716.wav	esd_train.csv
+0013_000719	13	At the end of four.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000719.wav	esd_train.csv
+0013_000722	13	And what are doves. And what are doves.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000722.wav	esd_train.csv
+0013_000723	13	I thought you meant how old are you?	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000723.wav	esd_train.csv
+0013_000725	13	She is now choosing skirt to wear.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000725.wav	esd_train.csv
+0013_000727	13	Monster made a deep bow.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000727.wav	esd_train.csv
+0013_000729	13	Rat came and replied on the leaves.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000729.wav	esd_train.csv
+0013_000730	13	Must a name mean something?	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000730.wav	esd_train.csv
+0013_000733	13	This used to be Jerry's occupation.	Happy	Data/ESD_DATA_24KHz/0013/Happy/0013_000733.wav	esd_train.csv
+0013_001053	13	That I owe my thanks to you.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001053.wav	esd_train.csv
+0013_001054	13	They went up to the dark mass job had pointed out.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001054.wav	esd_train.csv
+0013_001055	13	Clear than clear water!	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001055.wav	esd_train.csv
+0013_001057	13	I'm as bad as I can be.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001057.wav	esd_train.csv
+0013_001058	13	That was his chief thought.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001058.wav	esd_train.csv
+0013_001059	13	On the twenty second of last march.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001059.wav	esd_train.csv
+0013_001060	13	A nauseous draught.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001060.wav	esd_train.csv
+0013_001061	13	Chapter ten a warm welcome.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001061.wav	esd_train.csv
+0013_001062	13	Her shoes were like fishes.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001062.wav	esd_train.csv
+0013_001063	13	I have bunburyed all over goat on two separate occasions.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001063.wav	esd_train.csv
+0013_001064	13	Annie please please don't hurt me!	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001064.wav	esd_train.csv
+0013_001066	13	Mister share man, I move for a division.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001066.wav	esd_train.csv
+0013_001069	13	At the end of four.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001069.wav	esd_train.csv
+0013_001072	13	And what are doves. And what are doves.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001072.wav	esd_train.csv
+0013_001073	13	I thought you meant how old are you?	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001073.wav	esd_train.csv
+0013_001075	13	She is now choosing skirt to wear.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001075.wav	esd_train.csv
+0013_001077	13	Monster made a deep bow.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001077.wav	esd_train.csv
+0013_001079	13	Rat came and replied on the leaves.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001079.wav	esd_train.csv
+0013_001080	13	Must a name mean something?	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001080.wav	esd_train.csv
+0013_001083	13	This used to be Jerry's occupation.	Sad	Data/ESD_DATA_24KHz/0013/Sad/0013_001083.wav	esd_train.csv
+0013_001403	13	That I owe my thanks to you.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001403.wav	esd_train.csv
+0013_001404	13	They went up to the dark mass job had pointed out.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001404.wav	esd_train.csv
+0013_001405	13	Clear than clear water!	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001405.wav	esd_train.csv
+0013_001407	13	I'm as bad as I can be.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001407.wav	esd_train.csv
+0013_001408	13	That was his chief thought.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001408.wav	esd_train.csv
+0013_001409	13	On the twenty second of last march.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001409.wav	esd_train.csv
+0013_001410	13	A nauseous draught.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001410.wav	esd_train.csv
+0013_001411	13	Chapter ten a warm welcome.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001411.wav	esd_train.csv
+0013_001412	13	Her shoes were like fishes.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001412.wav	esd_train.csv
+0013_001413	13	I have bunburyed all over goat on two separate occasions.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001413.wav	esd_train.csv
+0013_001414	13	Annie please please don't hurt me!	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001414.wav	esd_train.csv
+0013_001416	13	Mister share man, I move for a division.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001416.wav	esd_train.csv
+0013_001419	13	At the end of four.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001419.wav	esd_train.csv
+0013_001422	13	And what are doves. And what are doves.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001422.wav	esd_train.csv
+0013_001423	13	I thought you meant how old are you?	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001423.wav	esd_train.csv
+0013_001425	13	She is now choosing skirt to wear.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001425.wav	esd_train.csv
+0013_001427	13	Monster made a deep bow.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001427.wav	esd_train.csv
+0013_001429	13	Rat came and replied on the leaves.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001429.wav	esd_train.csv
+0013_001430	13	Must a name mean something?	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001430.wav	esd_train.csv
+0013_001433	13	This used to be Jerry's occupation.	Surprise	Data/ESD_DATA_24KHz/0013/Surprise/0013_001433.wav	esd_train.csv
+0015_000003	15	That I owe my thanks to you.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000003.wav	esd_train.csv
+0015_000004	15	They went up to the dark mass job had pointed out.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000004.wav	esd_train.csv
+0015_000005	15	Clear than clear water!	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000005.wav	esd_train.csv
+0015_000007	15	I'm as bad as I can be.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000007.wav	esd_train.csv
+0015_000008	15	That was his chief thought.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000008.wav	esd_train.csv
+0015_000009	15	On the twenty second of last march.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000009.wav	esd_train.csv
+0015_000010	15	A nauseous draught.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000010.wav	esd_train.csv
+0015_000011	15	Chapter ten a warm welcome.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000011.wav	esd_train.csv
+0015_000012	15	Her shoes were like fishes.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000012.wav	esd_train.csv
+0015_000013	15	I have bunburyed all over goat on two separate occasions.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000013.wav	esd_train.csv
+0015_000014	15	Annie please please don't hurt me!	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000014.wav	esd_train.csv
+0015_000016	15	Mister share man, I move for a division.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000016.wav	esd_train.csv
+0015_000019	15	At the end of four.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000019.wav	esd_train.csv
+0015_000022	15	And what are doves. And what are doves.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000022.wav	esd_train.csv
+0015_000023	15	I thought you meant how old are you?	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000023.wav	esd_train.csv
+0015_000025	15	She is now choosing skirt to wear.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000025.wav	esd_train.csv
+0015_000027	15	Monster made a deep bow.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000027.wav	esd_train.csv
+0015_000029	15	Rat came and replied on the leaves.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000029.wav	esd_train.csv
+0015_000030	15	Must a name mean something?	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000030.wav	esd_train.csv
+0015_000033	15	This used to be Jerry's occupation.	Neutral	Data/ESD_DATA_24KHz/0015/Neutral/0015_000033.wav	esd_train.csv
+0015_000353	15	That I owe my thanks to you.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000353.wav	esd_train.csv
+0015_000354	15	They went up to the dark mass job had pointed out.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000354.wav	esd_train.csv
+0015_000355	15	Clear than clear water!	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000355.wav	esd_train.csv
+0015_000357	15	I'm as bad as I can be.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000357.wav	esd_train.csv
+0015_000358	15	That was his chief thought.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000358.wav	esd_train.csv
+0015_000359	15	On the twenty second of last march.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000359.wav	esd_train.csv
+0015_000360	15	A nauseous draught.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000360.wav	esd_train.csv
+0015_000361	15	Chapter ten a warm welcome.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000361.wav	esd_train.csv
+0015_000362	15	Her shoes were like fishes.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000362.wav	esd_train.csv
+0015_000363	15	I have bunburyed all over goat on two separate occasions.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000363.wav	esd_train.csv
+0015_000364	15	Annie please please don't hurt me!	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000364.wav	esd_train.csv
+0015_000366	15	Mister share man, I move for a division.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000366.wav	esd_train.csv
+0015_000369	15	At the end of four.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000369.wav	esd_train.csv
+0015_000372	15	And what are doves. And what are doves.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000372.wav	esd_train.csv
+0015_000373	15	I thought you meant how old are you?	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000373.wav	esd_train.csv
+0015_000375	15	She is now choosing skirt to wear.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000375.wav	esd_train.csv
+0015_000377	15	Monster made a deep bow.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000377.wav	esd_train.csv
+0015_000379	15	Rat came and replied on the leaves.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000379.wav	esd_train.csv
+0015_000380	15	Must a name mean something?	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000380.wav	esd_train.csv
+0015_000383	15	This used to be Jerry's occupation.	Angry	Data/ESD_DATA_24KHz/0015/Angry/0015_000383.wav	esd_train.csv
+0015_000703	15	That I owe my thanks to you.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000703.wav	esd_train.csv
+0015_000704	15	They went up to the dark mass job had pointed out.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000704.wav	esd_train.csv
+0015_000705	15	Clear than clear water!	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000705.wav	esd_train.csv
+0015_000707	15	I'm as bad as I can be.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000707.wav	esd_train.csv
+0015_000708	15	That was his chief thought.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000708.wav	esd_train.csv
+0015_000709	15	On the twenty second of last march.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000709.wav	esd_train.csv
+0015_000710	15	A nauseous draught.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000710.wav	esd_train.csv
+0015_000711	15	Chapter ten a warm welcome.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000711.wav	esd_train.csv
+0015_000712	15	Her shoes were like fishes.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000712.wav	esd_train.csv
+0015_000713	15	I have bunburyed all over goat on two separate occasions.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000713.wav	esd_train.csv
+0015_000714	15	Annie please please don't hurt me!	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000714.wav	esd_train.csv
+0015_000716	15	Mister share man, I move for a division.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000716.wav	esd_train.csv
+0015_000719	15	At the end of four.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000719.wav	esd_train.csv
+0015_000722	15	And what are doves. And what are doves.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000722.wav	esd_train.csv
+0015_000723	15	I thought you meant how old are you?	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000723.wav	esd_train.csv
+0015_000725	15	She is now choosing skirt to wear.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000725.wav	esd_train.csv
+0015_000727	15	Monster made a deep bow.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000727.wav	esd_train.csv
+0015_000729	15	Rat came and replied on the leaves.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000729.wav	esd_train.csv
+0015_000730	15	Must a name mean something?	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000730.wav	esd_train.csv
+0015_000733	15	This used to be Jerry's occupation.	Happy	Data/ESD_DATA_24KHz/0015/Happy/0015_000733.wav	esd_train.csv
+0015_001053	15	That I owe my thanks to you.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001053.wav	esd_train.csv
+0015_001054	15	They went up to the dark mass job had pointed out.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001054.wav	esd_train.csv
+0015_001055	15	Clear than clear water!	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001055.wav	esd_train.csv
+0015_001057	15	I'm as bad as I can be.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001057.wav	esd_train.csv
+0015_001058	15	That was his chief thought.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001058.wav	esd_train.csv
+0015_001059	15	On the twenty second of last march.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001059.wav	esd_train.csv
+0015_001060	15	A nauseous draught.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001060.wav	esd_train.csv
+0015_001061	15	Chapter ten a warm welcome.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001061.wav	esd_train.csv
+0015_001062	15	Her shoes were like fishes.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001062.wav	esd_train.csv
+0015_001063	15	I have bunburyed all over goat on two separate occasions.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001063.wav	esd_train.csv
+0015_001064	15	Annie please please don't hurt me!	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001064.wav	esd_train.csv
+0015_001066	15	Mister share man, I move for a division.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001066.wav	esd_train.csv
+0015_001069	15	At the end of four.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001069.wav	esd_train.csv
+0015_001072	15	And what are doves. And what are doves.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001072.wav	esd_train.csv
+0015_001073	15	I thought you meant how old are you?	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001073.wav	esd_train.csv
+0015_001075	15	She is now choosing skirt to wear.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001075.wav	esd_train.csv
+0015_001077	15	Monster made a deep bow.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001077.wav	esd_train.csv
+0015_001079	15	Rat came and replied on the leaves.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001079.wav	esd_train.csv
+0015_001080	15	Must a name mean something?	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001080.wav	esd_train.csv
+0015_001083	15	This used to be Jerry's occupation.	Sad	Data/ESD_DATA_24KHz/0015/Sad/0015_001083.wav	esd_train.csv
+0015_001403	15	That I owe my thanks to you.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001403.wav	esd_train.csv
+0015_001404	15	They went up to the dark mass job had pointed out.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001404.wav	esd_train.csv
+0015_001405	15	Clear than clear water!	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001405.wav	esd_train.csv
+0015_001407	15	I'm as bad as I can be.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001407.wav	esd_train.csv
+0015_001408	15	That was his chief thought.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001408.wav	esd_train.csv
+0015_001409	15	On the twenty second of last march.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001409.wav	esd_train.csv
+0015_001410	15	A nauseous draught.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001410.wav	esd_train.csv
+0015_001411	15	Chapter ten a warm welcome.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001411.wav	esd_train.csv
+0015_001412	15	Her shoes were like fishes.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001412.wav	esd_train.csv
+0015_001413	15	I have bunburyed all over goat on two separate occasions.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001413.wav	esd_train.csv
+0015_001414	15	Annie please please don't hurt me!	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001414.wav	esd_train.csv
+0015_001416	15	Mister share man, I move for a division.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001416.wav	esd_train.csv
+0015_001419	15	At the end of four.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001419.wav	esd_train.csv
+0015_001422	15	And what are doves. And what are doves.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001422.wav	esd_train.csv
+0015_001423	15	I thought you meant how old are you?	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001423.wav	esd_train.csv
+0015_001425	15	She is now choosing skirt to wear.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001425.wav	esd_train.csv
+0015_001427	15	Monster made a deep bow.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001427.wav	esd_train.csv
+0015_001429	15	Rat came and replied on the leaves.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001429.wav	esd_train.csv
+0015_001430	15	Must a name mean something?	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001430.wav	esd_train.csv
+0015_001433	15	This used to be Jerry's occupation.	Surprise	Data/ESD_DATA_24KHz/0015/Surprise/0015_001433.wav	esd_train.csv
+0014_000003	14	That I owe my thanks to you.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000003.wav	esd_train.csv
+0014_000004	14	They went up to the dark mass job had pointed out.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000004.wav	esd_train.csv
+0014_000005	14	Clear than clear water!	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000005.wav	esd_train.csv
+0014_000007	14	I'm as bad as I can be.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000007.wav	esd_train.csv
+0014_000008	14	That was his chief thought.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000008.wav	esd_train.csv
+0014_000009	14	On the twenty second of last march.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000009.wav	esd_train.csv
+0014_000010	14	A nauseous draught.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000010.wav	esd_train.csv
+0014_000011	14	Chapter ten a warm welcome.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000011.wav	esd_train.csv
+0014_000012	14	Her shoes were like fishes.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000012.wav	esd_train.csv
+0014_000013	14	I have bunburyed all over goat on two separate occasions.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000013.wav	esd_train.csv
+0014_000014	14	Annie please please don't hurt me!	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000014.wav	esd_train.csv
+0014_000016	14	Mister share man, I move for a division.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000016.wav	esd_train.csv
+0014_000019	14	At the end of four.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000019.wav	esd_train.csv
+0014_000022	14	And what are doves. And what are doves.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000022.wav	esd_train.csv
+0014_000023	14	I thought you meant how old are you?	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000023.wav	esd_train.csv
+0014_000025	14	She is now choosing skirt to wear.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000025.wav	esd_train.csv
+0014_000027	14	Monster made a deep bow.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000027.wav	esd_train.csv
+0014_000029	14	Rat came and replied on the leaves.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000029.wav	esd_train.csv
+0014_000030	14	Must a name mean something?	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000030.wav	esd_train.csv
+0014_000033	14	This used to be Jerry's occupation.	Neutral	Data/ESD_DATA_24KHz/0014/Neutral/0014_000033.wav	esd_train.csv
+0014_000353	14	That I owe my thanks to you.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000353.wav	esd_train.csv
+0014_000354	14	They went up to the dark mass job had pointed out.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000354.wav	esd_train.csv
+0014_000355	14	Clear than clear water!	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000355.wav	esd_train.csv
+0014_000357	14	I'm as bad as I can be.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000357.wav	esd_train.csv
+0014_000358	14	That was his chief thought.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000358.wav	esd_train.csv
+0014_000359	14	On the twenty second of last march.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000359.wav	esd_train.csv
+0014_000360	14	A nauseous draught.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000360.wav	esd_train.csv
+0014_000361	14	Chapter ten a warm welcome.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000361.wav	esd_train.csv
+0014_000362	14	Her shoes were like fishes.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000362.wav	esd_train.csv
+0014_000363	14	I have bunburyed all over goat on two separate occasions.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000363.wav	esd_train.csv
+0014_000364	14	Annie please please don't hurt me!	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000364.wav	esd_train.csv
+0014_000366	14	Mister share man, I move for a division.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000366.wav	esd_train.csv
+0014_000369	14	At the end of four.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000369.wav	esd_train.csv
+0014_000372	14	And what are doves. And what are doves.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000372.wav	esd_train.csv
+0014_000373	14	I thought you meant how old are you?	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000373.wav	esd_train.csv
+0014_000375	14	She is now choosing skirt to wear.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000375.wav	esd_train.csv
+0014_000377	14	Monster made a deep bow.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000377.wav	esd_train.csv
+0014_000379	14	Rat came and replied on the leaves.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000379.wav	esd_train.csv
+0014_000380	14	Must a name mean something?	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000380.wav	esd_train.csv
+0014_000383	14	This used to be Jerry's occupation.	Angry	Data/ESD_DATA_24KHz/0014/Angry/0014_000383.wav	esd_train.csv
+0014_000703	14	That I owe my thanks to you.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000703.wav	esd_train.csv
+0014_000704	14	They went up to the dark mass job had pointed out.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000704.wav	esd_train.csv
+0014_000705	14	Clear than clear water!	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000705.wav	esd_train.csv
+0014_000707	14	I'm as bad as I can be.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000707.wav	esd_train.csv
+0014_000708	14	That was his chief thought.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000708.wav	esd_train.csv
+0014_000709	14	On the twenty second of last march.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000709.wav	esd_train.csv
+0014_000710	14	A nauseous draught.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000710.wav	esd_train.csv
+0014_000711	14	Chapter ten a warm welcome.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000711.wav	esd_train.csv
+0014_000712	14	Her shoes were like fishes.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000712.wav	esd_train.csv
+0014_000713	14	I have bunburyed all over goat on two separate occasions.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000713.wav	esd_train.csv
+0014_000714	14	Annie please please don't hurt me!	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000714.wav	esd_train.csv
+0014_000716	14	Mister share man, I move for a division.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000716.wav	esd_train.csv
+0014_000719	14	At the end of four.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000719.wav	esd_train.csv
+0014_000722	14	And what are doves. And what are doves.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000722.wav	esd_train.csv
+0014_000723	14	I thought you meant how old are you?	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000723.wav	esd_train.csv
+0014_000725	14	She is now choosing skirt to wear.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000725.wav	esd_train.csv
+0014_000727	14	Monster made a deep bow.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000727.wav	esd_train.csv
+0014_000729	14	Rat came and replied on the leaves.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000729.wav	esd_train.csv
+0014_000730	14	Must a name mean something?	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000730.wav	esd_train.csv
+0014_000733	14	This used to be Jerry's occupation.	Happy	Data/ESD_DATA_24KHz/0014/Happy/0014_000733.wav	esd_train.csv
+0014_001053	14	That I owe my thanks to you.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001053.wav	esd_train.csv
+0014_001054	14	They went up to the dark mass job had pointed out.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001054.wav	esd_train.csv
+0014_001055	14	Clear than clear water!	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001055.wav	esd_train.csv
+0014_001057	14	I'm as bad as I can be.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001057.wav	esd_train.csv
+0014_001058	14	That was his chief thought.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001058.wav	esd_train.csv
+0014_001059	14	On the twenty second of last march.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001059.wav	esd_train.csv
+0014_001060	14	A nauseous draught.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001060.wav	esd_train.csv
+0014_001061	14	Chapter ten a warm welcome.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001061.wav	esd_train.csv
+0014_001062	14	Her shoes were like fishes.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001062.wav	esd_train.csv
+0014_001063	14	I have bunburyed all over goat on two separate occasions.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001063.wav	esd_train.csv
+0014_001064	14	Annie please please don't hurt me!	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001064.wav	esd_train.csv
+0014_001066	14	Mister share man, I move for a division.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001066.wav	esd_train.csv
+0014_001069	14	At the end of four.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001069.wav	esd_train.csv
+0014_001072	14	And what are doves. And what are doves.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001072.wav	esd_train.csv
+0014_001073	14	I thought you meant how old are you?	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001073.wav	esd_train.csv
+0014_001075	14	She is now choosing skirt to wear.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001075.wav	esd_train.csv
+0014_001077	14	Monster made a deep bow.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001077.wav	esd_train.csv
+0014_001079	14	Rat came and replied on the leaves.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001079.wav	esd_train.csv
+0014_001080	14	Must a name mean something?	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001080.wav	esd_train.csv
+0014_001083	14	This used to be Jerry's occupation.	Sad	Data/ESD_DATA_24KHz/0014/Sad/0014_001083.wav	esd_train.csv
+0014_001403	14	That I owe my thanks to you.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001403.wav	esd_train.csv
+0014_001404	14	They went up to the dark mass job had pointed out.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001404.wav	esd_train.csv
+0014_001405	14	Clear than clear water!	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001405.wav	esd_train.csv
+0014_001407	14	I'm as bad as I can be.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001407.wav	esd_train.csv
+0014_001408	14	That was his chief thought.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001408.wav	esd_train.csv
+0014_001409	14	On the twenty second of last march.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001409.wav	esd_train.csv
+0014_001410	14	A nauseous draught.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001410.wav	esd_train.csv
+0014_001411	14	Chapter ten a warm welcome.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001411.wav	esd_train.csv
+0014_001412	14	Her shoes were like fishes.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001412.wav	esd_train.csv
+0014_001413	14	I have bunburyed all over goat on two separate occasions.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001413.wav	esd_train.csv
+0014_001414	14	Annie please please don't hurt me!	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001414.wav	esd_train.csv
+0014_001416	14	Mister share man, I move for a division.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001416.wav	esd_train.csv
+0014_001419	14	At the end of four.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001419.wav	esd_train.csv
+0014_001422	14	And what are doves. And what are doves.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001422.wav	esd_train.csv
+0014_001423	14	I thought you meant how old are you?	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001423.wav	esd_train.csv
+0014_001425	14	She is now choosing skirt to wear.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001425.wav	esd_train.csv
+0014_001427	14	Monster made a deep bow.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001427.wav	esd_train.csv
+0014_001429	14	Rat came and replied on the leaves.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001429.wav	esd_train.csv
+0014_001430	14	Must a name mean something?	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001430.wav	esd_train.csv
+0014_001433	14	This used to be Jerry's occupation.	Surprise	Data/ESD_DATA_24KHz/0014/Surprise/0014_001433.wav	esd_train.csv
+0016_000003	16	That I owe my thanks to you.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000003.wav	esd_train.csv
+0016_000004	16	They went up to the dark mass job had pointed out.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000004.wav	esd_train.csv
+0016_000005	16	Clear than clear water!	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000005.wav	esd_train.csv
+0016_000007	16	I'm as bad as I can be.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000007.wav	esd_train.csv
+0016_000008	16	That was his chief thought.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000008.wav	esd_train.csv
+0016_000009	16	On the twenty second of last march.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000009.wav	esd_train.csv
+0016_000010	16	A nauseous draught.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000010.wav	esd_train.csv
+0016_000011	16	Chapter ten a warm welcome.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000011.wav	esd_train.csv
+0016_000012	16	Her shoes were like fishes.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000012.wav	esd_train.csv
+0016_000013	16	I have bunburyed all over goat on two separate occasions.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000013.wav	esd_train.csv
+0016_000014	16	Annie please please don't hurt me!	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000014.wav	esd_train.csv
+0016_000016	16	Mister share man, I move for a division.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000016.wav	esd_train.csv
+0016_000019	16	At the end of four.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000019.wav	esd_train.csv
+0016_000022	16	And what are doves. And what are doves.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000022.wav	esd_train.csv
+0016_000023	16	I thought you meant how old are you?	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000023.wav	esd_train.csv
+0016_000025	16	She is now choosing skirt to wear.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000025.wav	esd_train.csv
+0016_000027	16	Monster made a deep bow.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000027.wav	esd_train.csv
+0016_000029	16	Rat came and replied on the leaves.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000029.wav	esd_train.csv
+0016_000030	16	Must a name mean something?	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000030.wav	esd_train.csv
+0016_000033	16	This used to be Jerry's occupation.	Neutral	Data/ESD_DATA_24KHz/0016/Neutral/0016_000033.wav	esd_train.csv
+0016_000353	16	That I owe my thanks to you.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000353.wav	esd_train.csv
+0016_000354	16	They went up to the dark mass job had pointed out.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000354.wav	esd_train.csv
+0016_000355	16	Clear than clear water!	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000355.wav	esd_train.csv
+0016_000357	16	I'm as bad as I can be.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000357.wav	esd_train.csv
+0016_000358	16	That was his chief thought.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000358.wav	esd_train.csv
+0016_000359	16	On the twenty second of last march.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000359.wav	esd_train.csv
+0016_000360	16	A nauseous draught.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000360.wav	esd_train.csv
+0016_000361	16	Chapter ten a warm welcome.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000361.wav	esd_train.csv
+0016_000362	16	Her shoes were like fishes.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000362.wav	esd_train.csv
+0016_000363	16	I have bunburyed all over goat on two separate occasions.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000363.wav	esd_train.csv
+0016_000364	16	Annie please please don't hurt me!	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000364.wav	esd_train.csv
+0016_000366	16	Mister share man, I move for a division.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000366.wav	esd_train.csv
+0016_000369	16	At the end of four.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000369.wav	esd_train.csv
+0016_000372	16	And what are doves. And what are doves.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000372.wav	esd_train.csv
+0016_000373	16	I thought you meant how old are you?	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000373.wav	esd_train.csv
+0016_000375	16	She is now choosing skirt to wear.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000375.wav	esd_train.csv
+0016_000377	16	Monster made a deep bow.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000377.wav	esd_train.csv
+0016_000379	16	Rat came and replied on the leaves.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000379.wav	esd_train.csv
+0016_000380	16	Must a name mean something?	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000380.wav	esd_train.csv
+0016_000383	16	This used to be Jerry's occupation.	Angry	Data/ESD_DATA_24KHz/0016/Angry/0016_000383.wav	esd_train.csv
+0016_000703	16	That I owe my thanks to you.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000703.wav	esd_train.csv
+0016_000704	16	They went up to the dark mass job had pointed out.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000704.wav	esd_train.csv
+0016_000705	16	Clear than clear water!	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000705.wav	esd_train.csv
+0016_000707	16	I'm as bad as I can be.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000707.wav	esd_train.csv
+0016_000708	16	That was his chief thought.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000708.wav	esd_train.csv
+0016_000709	16	On the twenty second of last march.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000709.wav	esd_train.csv
+0016_000710	16	A nauseous draught.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000710.wav	esd_train.csv
+0016_000711	16	Chapter ten a warm welcome.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000711.wav	esd_train.csv
+0016_000712	16	Her shoes were like fishes.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000712.wav	esd_train.csv
+0016_000713	16	I have bunburyed all over goat on two separate occasions.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000713.wav	esd_train.csv
+0016_000714	16	Annie please please don't hurt me!	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000714.wav	esd_train.csv
+0016_000716	16	Mister share man, I move for a division.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000716.wav	esd_train.csv
+0016_000719	16	At the end of four.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000719.wav	esd_train.csv
+0016_000722	16	And what are doves. And what are doves.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000722.wav	esd_train.csv
+0016_000723	16	I thought you meant how old are you?	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000723.wav	esd_train.csv
+0016_000725	16	She is now choosing skirt to wear.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000725.wav	esd_train.csv
+0016_000727	16	Monster made a deep bow.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000727.wav	esd_train.csv
+0016_000729	16	Rat came and replied on the leaves.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000729.wav	esd_train.csv
+0016_000730	16	Must a name mean something?	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000730.wav	esd_train.csv
+0016_000733	16	This used to be Jerry's occupation.	Happy	Data/ESD_DATA_24KHz/0016/Happy/0016_000733.wav	esd_train.csv
+0016_001053	16	That I owe my thanks to you.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001053.wav	esd_train.csv
+0016_001054	16	They went up to the dark mass job had pointed out.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001054.wav	esd_train.csv
+0016_001055	16	Clear than clear water!	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001055.wav	esd_train.csv
+0016_001057	16	I'm as bad as I can be.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001057.wav	esd_train.csv
+0016_001058	16	That was his chief thought.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001058.wav	esd_train.csv
+0016_001059	16	On the twenty second of last march.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001059.wav	esd_train.csv
+0016_001060	16	A nauseous draught.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001060.wav	esd_train.csv
+0016_001061	16	Chapter ten a warm welcome.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001061.wav	esd_train.csv
+0016_001062	16	Her shoes were like fishes.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001062.wav	esd_train.csv
+0016_001063	16	I have bunburyed all over goat on two separate occasions.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001063.wav	esd_train.csv
+0016_001064	16	Annie please please don't hurt me!	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001064.wav	esd_train.csv
+0016_001066	16	Mister share man, I move for a division.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001066.wav	esd_train.csv
+0016_001069	16	At the end of four.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001069.wav	esd_train.csv
+0016_001072	16	And what are doves. And what are doves.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001072.wav	esd_train.csv
+0016_001073	16	I thought you meant how old are you?	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001073.wav	esd_train.csv
+0016_001075	16	She is now choosing skirt to wear.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001075.wav	esd_train.csv
+0016_001077	16	Monster made a deep bow.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001077.wav	esd_train.csv
+0016_001079	16	Rat came and replied on the leaves.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001079.wav	esd_train.csv
+0016_001080	16	Must a name mean something?	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001080.wav	esd_train.csv
+0016_001083	16	This used to be Jerry's occupation.	Sad	Data/ESD_DATA_24KHz/0016/Sad/0016_001083.wav	esd_train.csv
+0016_001403	16	That I owe my thanks to you.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001403.wav	esd_train.csv
+0016_001404	16	They went up to the dark mass job had pointed out.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001404.wav	esd_train.csv
+0016_001405	16	Clear than clear water!	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001405.wav	esd_train.csv
+0016_001407	16	I'm as bad as I can be.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001407.wav	esd_train.csv
+0016_001408	16	That was his chief thought.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001408.wav	esd_train.csv
+0016_001409	16	On the twenty second of last march.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001409.wav	esd_train.csv
+0016_001410	16	A nauseous draught.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001410.wav	esd_train.csv
+0016_001411	16	Chapter ten a warm welcome.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001411.wav	esd_train.csv
+0016_001412	16	Her shoes were like fishes.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001412.wav	esd_train.csv
+0016_001413	16	I have bunburyed all over goat on two separate occasions.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001413.wav	esd_train.csv
+0016_001414	16	Annie please please don't hurt me!	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001414.wav	esd_train.csv
+0016_001416	16	Mister share man, I move for a division.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001416.wav	esd_train.csv
+0016_001419	16	At the end of four.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001419.wav	esd_train.csv
+0016_001422	16	And what are doves. And what are doves.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001422.wav	esd_train.csv
+0016_001423	16	I thought you meant how old are you?	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001423.wav	esd_train.csv
+0016_001425	16	She is now choosing skirt to wear.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001425.wav	esd_train.csv
+0016_001427	16	Monster made a deep bow.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001427.wav	esd_train.csv
+0016_001429	16	Rat came and replied on the leaves.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001429.wav	esd_train.csv
+0016_001430	16	Must a name mean something?	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001430.wav	esd_train.csv
+0016_001433	16	This used to be Jerry's occupation.	Surprise	Data/ESD_DATA_24KHz/0016/Surprise/0016_001433.wav	esd_train.csv
+0012_000003	12	That I owe my thanks to you.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000003.wav	esd_train.csv
+0012_000004	12	They went up to the dark mass job had pointed out.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000004.wav	esd_train.csv
+0012_000005	12	Clear than clear water!	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000005.wav	esd_train.csv
+0012_000007	12	I'm as bad as I can be.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000007.wav	esd_train.csv
+0012_000008	12	That was his chief thought.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000008.wav	esd_train.csv
+0012_000009	12	On the twenty second of last march.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000009.wav	esd_train.csv
+0012_000010	12	A nauseous draught.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000010.wav	esd_train.csv
+0012_000011	12	Chapter ten a warm welcome.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000011.wav	esd_train.csv
+0012_000012	12	Her shoes were like fishes.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000012.wav	esd_train.csv
+0012_000013	12	I have bunburyed all over goat on two separate occasions.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000013.wav	esd_train.csv
+0012_000014	12	Annie please please don't hurt me!	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000014.wav	esd_train.csv
+0012_000016	12	Mister share man, I move for a division.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000016.wav	esd_train.csv
+0012_000019	12	At the end of four.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000019.wav	esd_train.csv
+0012_000022	12	And what are doves. And what are doves.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000022.wav	esd_train.csv
+0012_000023	12	I thought you meant how old are you?	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000023.wav	esd_train.csv
+0012_000025	12	She is now choosing skirt to wear.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000025.wav	esd_train.csv
+0012_000027	12	Monster made a deep bow.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000027.wav	esd_train.csv
+0012_000029	12	Rat came and replied on the leaves.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000029.wav	esd_train.csv
+0012_000030	12	Must a name mean something?	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000030.wav	esd_train.csv
+0012_000033	12	This used to be Jerry's occupation.	Neutral	Data/ESD_DATA_24KHz/0012/Neutral/0012_000033.wav	esd_train.csv
+0012_000353	12	That I owe my thanks to you.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000353.wav	esd_train.csv
+0012_000354	12	They went up to the dark mass job had pointed out.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000354.wav	esd_train.csv
+0012_000355	12	Clear than clear water!	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000355.wav	esd_train.csv
+0012_000357	12	I'm as bad as I can be.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000357.wav	esd_train.csv
+0012_000358	12	That was his chief thought.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000358.wav	esd_train.csv
+0012_000359	12	On the twenty second of last march.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000359.wav	esd_train.csv
+0012_000360	12	A nauseous draught.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000360.wav	esd_train.csv
+0012_000361	12	Chapter ten a warm welcome.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000361.wav	esd_train.csv
+0012_000362	12	Her shoes were like fishes.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000362.wav	esd_train.csv
+0012_000363	12	I have bunburyed all over goat on two separate occasions.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000363.wav	esd_train.csv
+0012_000364	12	Annie please please don't hurt me!	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000364.wav	esd_train.csv
+0012_000366	12	Mister share man, I move for a division.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000366.wav	esd_train.csv
+0012_000369	12	At the end of four.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000369.wav	esd_train.csv
+0012_000372	12	And what are doves. And what are doves.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000372.wav	esd_train.csv
+0012_000373	12	I thought you meant how old are you?	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000373.wav	esd_train.csv
+0012_000375	12	She is now choosing skirt to wear.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000375.wav	esd_train.csv
+0012_000377	12	Monster made a deep bow.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000377.wav	esd_train.csv
+0012_000379	12	Rat came and replied on the leaves.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000379.wav	esd_train.csv
+0012_000380	12	Must a name mean something?	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000380.wav	esd_train.csv
+0012_000383	12	This used to be Jerry's occupation.	Angry	Data/ESD_DATA_24KHz/0012/Angry/0012_000383.wav	esd_train.csv
+0012_000703	12	That I owe my thanks to you.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000703.wav	esd_train.csv
+0012_000704	12	They went up to the dark mass job had pointed out.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000704.wav	esd_train.csv
+0012_000705	12	Clear than clear water!	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000705.wav	esd_train.csv
+0012_000707	12	I'm as bad as I can be.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000707.wav	esd_train.csv
+0012_000708	12	That was his chief thought.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000708.wav	esd_train.csv
+0012_000709	12	On the twenty second of last march.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000709.wav	esd_train.csv
+0012_000710	12	A nauseous draught.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000710.wav	esd_train.csv
+0012_000711	12	Chapter ten a warm welcome.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000711.wav	esd_train.csv
+0012_000712	12	Her shoes were like fishes.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000712.wav	esd_train.csv
+0012_000713	12	I have bunburyed all over goat on two separate occasions.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000713.wav	esd_train.csv
+0012_000714	12	Annie please please don't hurt me!	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000714.wav	esd_train.csv
+0012_000716	12	Mister share man, I move for a division.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000716.wav	esd_train.csv
+0012_000719	12	At the end of four.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000719.wav	esd_train.csv
+0012_000722	12	And what are doves. And what are doves.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000722.wav	esd_train.csv
+0012_000723	12	I thought you meant how old are you?	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000723.wav	esd_train.csv
+0012_000725	12	She is now choosing skirt to wear.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000725.wav	esd_train.csv
+0012_000727	12	Monster made a deep bow.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000727.wav	esd_train.csv
+0012_000729	12	Rat came and replied on the leaves.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000729.wav	esd_train.csv
+0012_000730	12	Must a name mean something?	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000730.wav	esd_train.csv
+0012_000733	12	This used to be Jerry's occupation.	Happy	Data/ESD_DATA_24KHz/0012/Happy/0012_000733.wav	esd_train.csv
+0012_001053	12	That I owe my thanks to you.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001053.wav	esd_train.csv
+0012_001054	12	They went up to the dark mass job had pointed out.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001054.wav	esd_train.csv
+0012_001055	12	Clear than clear water!	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001055.wav	esd_train.csv
+0012_001057	12	I'm as bad as I can be.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001057.wav	esd_train.csv
+0012_001058	12	That was his chief thought.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001058.wav	esd_train.csv
+0012_001059	12	On the twenty second of last march.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001059.wav	esd_train.csv
+0012_001060	12	A nauseous draught.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001060.wav	esd_train.csv
+0012_001061	12	Chapter ten a warm welcome.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001061.wav	esd_train.csv
+0012_001062	12	Her shoes were like fishes.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001062.wav	esd_train.csv
+0012_001063	12	I have bunburyed all over goat on two separate occasions.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001063.wav	esd_train.csv
+0012_001064	12	Annie please please don't hurt me!	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001064.wav	esd_train.csv
+0012_001066	12	Mister share man, I move for a division.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001066.wav	esd_train.csv
+0012_001069	12	At the end of four.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001069.wav	esd_train.csv
+0012_001072	12	And what are doves. And what are doves.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001072.wav	esd_train.csv
+0012_001073	12	I thought you meant how old are you?	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001073.wav	esd_train.csv
+0012_001075	12	She is now choosing skirt to wear.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001075.wav	esd_train.csv
+0012_001077	12	Monster made a deep bow.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001077.wav	esd_train.csv
+0012_001079	12	Rat came and replied on the leaves.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001079.wav	esd_train.csv
+0012_001080	12	Must a name mean something?	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001080.wav	esd_train.csv
+0012_001083	12	This used to be Jerry's occupation.	Sad	Data/ESD_DATA_24KHz/0012/Sad/0012_001083.wav	esd_train.csv
+0012_001403	12	That I owe my thanks to you.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001403.wav	esd_train.csv
+0012_001404	12	They went up to the dark mass job had pointed out.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001404.wav	esd_train.csv
+0012_001405	12	Clear than clear water!	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001405.wav	esd_train.csv
+0012_001407	12	I'm as bad as I can be.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001407.wav	esd_train.csv
+0012_001408	12	That was his chief thought.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001408.wav	esd_train.csv
+0012_001409	12	On the twenty second of last march.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001409.wav	esd_train.csv
+0012_001410	12	A nauseous draught.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001410.wav	esd_train.csv
+0012_001411	12	Chapter ten a warm welcome.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001411.wav	esd_train.csv
+0012_001412	12	Her shoes were like fishes.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001412.wav	esd_train.csv
+0012_001413	12	I have bunburyed all over goat on two separate occasions.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001413.wav	esd_train.csv
+0012_001414	12	Annie please please don't hurt me!	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001414.wav	esd_train.csv
+0012_001416	12	Mister share man, I move for a division.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001416.wav	esd_train.csv
+0012_001419	12	At the end of four.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001419.wav	esd_train.csv
+0012_001422	12	And what are doves. And what are doves.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001422.wav	esd_train.csv
+0012_001423	12	I thought you meant how old are you?	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001423.wav	esd_train.csv
+0012_001425	12	She is now choosing skirt to wear.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001425.wav	esd_train.csv
+0012_001427	12	Monster made a deep bow.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001427.wav	esd_train.csv
+0012_001429	12	Rat came and replied on the leaves.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001429.wav	esd_train.csv
+0012_001430	12	Must a name mean something?	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001430.wav	esd_train.csv
+0012_001433	12	This used to be Jerry's occupation.	Surprise	Data/ESD_DATA_24KHz/0012/Surprise/0012_001433.wav	esd_train.csv
+0011_000003	11	That I owe my thanks to you.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000003.wav	esd_train.csv
+0011_000004	11	They went up to the dark mass job had pointed out.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000004.wav	esd_train.csv
+0011_000005	11	Clear than clear water!	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000005.wav	esd_train.csv
+0011_000007	11	I'm as bad as I can be.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000007.wav	esd_train.csv
+0011_000008	11	That was his chief thought.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000008.wav	esd_train.csv
+0011_000009	11	On the twenty second of last march.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000009.wav	esd_train.csv
+0011_000010	11	A nauseous draught.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000010.wav	esd_train.csv
+0011_000011	11	Chapter ten a warm welcome.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000011.wav	esd_train.csv
+0011_000012	11	Her shoes were like fishes.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000012.wav	esd_train.csv
+0011_000013	11	I have bunburyed all over goat on two separate occasions.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000013.wav	esd_train.csv
+0011_000014	11	Annie please please don't hurt me!	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000014.wav	esd_train.csv
+0011_000016	11	Mister share man, I move for a division.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000016.wav	esd_train.csv
+0011_000019	11	At the end of four.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000019.wav	esd_train.csv
+0011_000022	11	And what are doves. And what are doves.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000022.wav	esd_train.csv
+0011_000023	11	I thought you meant how old are you?	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000023.wav	esd_train.csv
+0011_000025	11	She is now choosing skirt to wear.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000025.wav	esd_train.csv
+0011_000027	11	Monster made a deep bow.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000027.wav	esd_train.csv
+0011_000029	11	Rat came and replied on the leaves.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000029.wav	esd_train.csv
+0011_000030	11	Must a name mean something?	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000030.wav	esd_train.csv
+0011_000033	11	This used to be Jerry's occupation.	Neutral	Data/ESD_DATA_24KHz/0011/Neutral/0011_000033.wav	esd_train.csv
+0011_000353	11	That I owe my thanks to you.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000353.wav	esd_train.csv
+0011_000354	11	They went up to the dark mass job had pointed out.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000354.wav	esd_train.csv
+0011_000355	11	Clear than clear water!	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000355.wav	esd_train.csv
+0011_000357	11	I'm as bad as I can be.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000357.wav	esd_train.csv
+0011_000358	11	That was his chief thought.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000358.wav	esd_train.csv
+0011_000359	11	On the twenty second of last march.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000359.wav	esd_train.csv
+0011_000360	11	A nauseous draught.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000360.wav	esd_train.csv
+0011_000361	11	Chapter ten a warm welcome.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000361.wav	esd_train.csv
+0011_000362	11	Her shoes were like fishes.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000362.wav	esd_train.csv
+0011_000363	11	I have bunburyed all over goat on two separate occasions.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000363.wav	esd_train.csv
+0011_000364	11	Annie please please don't hurt me!	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000364.wav	esd_train.csv
+0011_000366	11	Mister share man, I move for a division.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000366.wav	esd_train.csv
+0011_000369	11	At the end of four.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000369.wav	esd_train.csv
+0011_000372	11	And what are doves. And what are doves.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000372.wav	esd_train.csv
+0011_000373	11	I thought you meant how old are you?	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000373.wav	esd_train.csv
+0011_000375	11	She is now choosing skirt to wear.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000375.wav	esd_train.csv
+0011_000377	11	Monster made a deep bow.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000377.wav	esd_train.csv
+0011_000379	11	Rat came and replied on the leaves.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000379.wav	esd_train.csv
+0011_000380	11	Must a name mean something?	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000380.wav	esd_train.csv
+0011_000383	11	This used to be Jerry's occupation.	Angry	Data/ESD_DATA_24KHz/0011/Angry/0011_000383.wav	esd_train.csv
+0011_000703	11	That I owe my thanks to you.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000703.wav	esd_train.csv
+0011_000704	11	They went up to the dark mass job had pointed out.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000704.wav	esd_train.csv
+0011_000705	11	Clear than clear water!	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000705.wav	esd_train.csv
+0011_000707	11	I'm as bad as I can be.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000707.wav	esd_train.csv
+0011_000708	11	That was his chief thought.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000708.wav	esd_train.csv
+0011_000709	11	On the twenty second of last march.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000709.wav	esd_train.csv
+0011_000710	11	A nauseous draught.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000710.wav	esd_train.csv
+0011_000711	11	Chapter ten a warm welcome.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000711.wav	esd_train.csv
+0011_000712	11	Her shoes were like fishes.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000712.wav	esd_train.csv
+0011_000713	11	I have bunburyed all over goat on two separate occasions.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000713.wav	esd_train.csv
+0011_000714	11	Annie please please don't hurt me!	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000714.wav	esd_train.csv
+0011_000716	11	Mister share man, I move for a division.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000716.wav	esd_train.csv
+0011_000719	11	At the end of four.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000719.wav	esd_train.csv
+0011_000722	11	And what are doves. And what are doves.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000722.wav	esd_train.csv
+0011_000723	11	I thought you meant how old are you?	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000723.wav	esd_train.csv
+0011_000725	11	She is now choosing skirt to wear.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000725.wav	esd_train.csv
+0011_000727	11	Monster made a deep bow.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000727.wav	esd_train.csv
+0011_000729	11	Rat came and replied on the leaves.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000729.wav	esd_train.csv
+0011_000730	11	Must a name mean something?	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000730.wav	esd_train.csv
+0011_000733	11	This used to be Jerry's occupation.	Happy	Data/ESD_DATA_24KHz/0011/Happy/0011_000733.wav	esd_train.csv
+0011_001053	11	That I owe my thanks to you.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001053.wav	esd_train.csv
+0011_001054	11	They went up to the dark mass job had pointed out.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001054.wav	esd_train.csv
+0011_001055	11	Clear than clear water!	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001055.wav	esd_train.csv
+0011_001057	11	I'm as bad as I can be.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001057.wav	esd_train.csv
+0011_001058	11	That was his chief thought.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001058.wav	esd_train.csv
+0011_001059	11	On the twenty second of last march.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001059.wav	esd_train.csv
+0011_001060	11	A nauseous draught.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001060.wav	esd_train.csv
+0011_001061	11	Chapter ten a warm welcome.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001061.wav	esd_train.csv
+0011_001062	11	Her shoes were like fishes.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001062.wav	esd_train.csv
+0011_001063	11	I have bunburyed all over goat on two separate occasions.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001063.wav	esd_train.csv
+0011_001064	11	Annie please please don't hurt me!	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001064.wav	esd_train.csv
+0011_001066	11	Mister share man, I move for a division.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001066.wav	esd_train.csv
+0011_001069	11	At the end of four.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001069.wav	esd_train.csv
+0011_001072	11	And what are doves. And what are doves.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001072.wav	esd_train.csv
+0011_001073	11	I thought you meant how old are you?	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001073.wav	esd_train.csv
+0011_001075	11	She is now choosing skirt to wear.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001075.wav	esd_train.csv
+0011_001077	11	Monster made a deep bow.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001077.wav	esd_train.csv
+0011_001079	11	Rat came and replied on the leaves.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001079.wav	esd_train.csv
+0011_001080	11	Must a name mean something?	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001080.wav	esd_train.csv
+0011_001083	11	This used to be Jerry's occupation.	Sad	Data/ESD_DATA_24KHz/0011/Sad/0011_001083.wav	esd_train.csv
+0011_001403	11	That I owe my thanks to you.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001403.wav	esd_train.csv
+0011_001404	11	They went up to the dark mass job had pointed out.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001404.wav	esd_train.csv
+0011_001405	11	Clear than clear water!	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001405.wav	esd_train.csv
+0011_001407	11	I'm as bad as I can be.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001407.wav	esd_train.csv
+0011_001408	11	That was his chief thought.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001408.wav	esd_train.csv
+0011_001409	11	On the twenty second of last march.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001409.wav	esd_train.csv
+0011_001410	11	A nauseous draught.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001410.wav	esd_train.csv
+0011_001411	11	Chapter ten a warm welcome.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001411.wav	esd_train.csv
+0011_001412	11	Her shoes were like fishes.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001412.wav	esd_train.csv
+0011_001413	11	I have bunburyed all over goat on two separate occasions.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001413.wav	esd_train.csv
+0011_001414	11	Annie please please don't hurt me!	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001414.wav	esd_train.csv
+0011_001416	11	Mister share man, I move for a division.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001416.wav	esd_train.csv
+0011_001419	11	At the end of four.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001419.wav	esd_train.csv
+0011_001422	11	And what are doves. And what are doves.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001422.wav	esd_train.csv
+0011_001423	11	I thought you meant how old are you?	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001423.wav	esd_train.csv
+0011_001425	11	She is now choosing skirt to wear.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001425.wav	esd_train.csv
+0011_001427	11	Monster made a deep bow.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001427.wav	esd_train.csv
+0011_001429	11	Rat came and replied on the leaves.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001429.wav	esd_train.csv
+0011_001430	11	Must a name mean something?	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001430.wav	esd_train.csv
+0011_001433	11	This used to be Jerry's occupation.	Surprise	Data/ESD_DATA_24KHz/0011/Surprise/0011_001433.wav	esd_train.csv
+0018_000003	18	That I owe my thanks to you.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000003.wav	esd_train.csv
+0018_000004	18	They went up to the dark mass job had pointed out.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000004.wav	esd_train.csv
+0018_000005	18	Clear than clear water!	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000005.wav	esd_train.csv
+0018_000007	18	I'm as bad as I can be.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000007.wav	esd_train.csv
+0018_000008	18	That was his chief thought.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000008.wav	esd_train.csv
+0018_000009	18	On the twenty second of last march.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000009.wav	esd_train.csv
+0018_000010	18	A nauseous draught.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000010.wav	esd_train.csv
+0018_000011	18	Chapter ten a warm welcome.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000011.wav	esd_train.csv
+0018_000012	18	Her shoes were like fishes.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000012.wav	esd_train.csv
+0018_000013	18	I have bunburyed all over goat on two separate occasions.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000013.wav	esd_train.csv
+0018_000014	18	Annie please please don't hurt me!	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000014.wav	esd_train.csv
+0018_000016	18	Mister share man, I move for a division.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000016.wav	esd_train.csv
+0018_000019	18	At the end of four.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000019.wav	esd_train.csv
+0018_000022	18	And what are doves. And what are doves.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000022.wav	esd_train.csv
+0018_000023	18	I thought you meant how old are you?	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000023.wav	esd_train.csv
+0018_000025	18	She is now choosing skirt to wear.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000025.wav	esd_train.csv
+0018_000027	18	Monster made a deep bow.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000027.wav	esd_train.csv
+0018_000029	18	Rat came and replied on the leaves.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000029.wav	esd_train.csv
+0018_000030	18	Must a name mean something?	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000030.wav	esd_train.csv
+0018_000033	18	This used to be Jerry's occupation.	Neutral	Data/ESD_DATA_24KHz/0018/Neutral/0018_000033.wav	esd_train.csv
+0018_000353	18	That I owe my thanks to you.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000353.wav	esd_train.csv
+0018_000354	18	They went up to the dark mass job had pointed out.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000354.wav	esd_train.csv
+0018_000355	18	Clear than clear water!	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000355.wav	esd_train.csv
+0018_000357	18	I'm as bad as I can be.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000357.wav	esd_train.csv
+0018_000358	18	That was his chief thought.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000358.wav	esd_train.csv
+0018_000359	18	On the twenty second of last march.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000359.wav	esd_train.csv
+0018_000360	18	A nauseous draught.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000360.wav	esd_train.csv
+0018_000361	18	Chapter ten a warm welcome.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000361.wav	esd_train.csv
+0018_000362	18	Her shoes were like fishes.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000362.wav	esd_train.csv
+0018_000363	18	I have bunburyed all over goat on two separate occasions.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000363.wav	esd_train.csv
+0018_000364	18	Annie please please don't hurt me!	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000364.wav	esd_train.csv
+0018_000366	18	Mister share man, I move for a division.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000366.wav	esd_train.csv
+0018_000369	18	At the end of four.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000369.wav	esd_train.csv
+0018_000372	18	And what are doves. And what are doves.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000372.wav	esd_train.csv
+0018_000373	18	I thought you meant how old are you?	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000373.wav	esd_train.csv
+0018_000375	18	She is now choosing skirt to wear.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000375.wav	esd_train.csv
+0018_000377	18	Monster made a deep bow.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000377.wav	esd_train.csv
+0018_000379	18	Rat came and replied on the leaves.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000379.wav	esd_train.csv
+0018_000380	18	Must a name mean something?	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000380.wav	esd_train.csv
+0018_000383	18	This used to be Jerry's occupation.	Angry	Data/ESD_DATA_24KHz/0018/Angry/0018_000383.wav	esd_train.csv
+0018_000703	18	That I owe my thanks to you.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000703.wav	esd_train.csv
+0018_000704	18	They went up to the dark mass job had pointed out.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000704.wav	esd_train.csv
+0018_000705	18	Clear than clear water!	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000705.wav	esd_train.csv
+0018_000707	18	I'm as bad as I can be.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000707.wav	esd_train.csv
+0018_000708	18	That was his chief thought.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000708.wav	esd_train.csv
+0018_000709	18	On the twenty second of last march.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000709.wav	esd_train.csv
+0018_000710	18	A nauseous draught.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000710.wav	esd_train.csv
+0018_000711	18	Chapter ten a warm welcome.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000711.wav	esd_train.csv
+0018_000712	18	Her shoes were like fishes.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000712.wav	esd_train.csv
+0018_000713	18	I have bunburyed all over goat on two separate occasions.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000713.wav	esd_train.csv
+0018_000714	18	Annie please please don't hurt me!	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000714.wav	esd_train.csv
+0018_000716	18	Mister share man, I move for a division.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000716.wav	esd_train.csv
+0018_000719	18	At the end of four.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000719.wav	esd_train.csv
+0018_000722	18	And what are doves. And what are doves.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000722.wav	esd_train.csv
+0018_000723	18	I thought you meant how old are you?	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000723.wav	esd_train.csv
+0018_000725	18	She is now choosing skirt to wear.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000725.wav	esd_train.csv
+0018_000727	18	Monster made a deep bow.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000727.wav	esd_train.csv
+0018_000729	18	Rat came and replied on the leaves.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000729.wav	esd_train.csv
+0018_000730	18	Must a name mean something?	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000730.wav	esd_train.csv
+0018_000733	18	This used to be Jerry's occupation.	Happy	Data/ESD_DATA_24KHz/0018/Happy/0018_000733.wav	esd_train.csv
+0018_001053	18	That I owe my thanks to you.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001053.wav	esd_train.csv
+0018_001054	18	They went up to the dark mass job had pointed out.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001054.wav	esd_train.csv
+0018_001055	18	Clear than clear water!	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001055.wav	esd_train.csv
+0018_001057	18	I'm as bad as I can be.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001057.wav	esd_train.csv
+0018_001058	18	That was his chief thought.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001058.wav	esd_train.csv
+0018_001059	18	On the twenty second of last march.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001059.wav	esd_train.csv
+0018_001060	18	A nauseous draught.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001060.wav	esd_train.csv
+0018_001061	18	Chapter ten a warm welcome.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001061.wav	esd_train.csv
+0018_001062	18	Her shoes were like fishes.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001062.wav	esd_train.csv
+0018_001063	18	I have bunburyed all over goat on two separate occasions.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001063.wav	esd_train.csv
+0018_001064	18	Annie please please don't hurt me!	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001064.wav	esd_train.csv
+0018_001066	18	Mister share man, I move for a division.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001066.wav	esd_train.csv
+0018_001069	18	At the end of four.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001069.wav	esd_train.csv
+0018_001072	18	And what are doves. And what are doves.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001072.wav	esd_train.csv
+0018_001073	18	I thought you meant how old are you?	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001073.wav	esd_train.csv
+0018_001075	18	She is now choosing skirt to wear.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001075.wav	esd_train.csv
+0018_001077	18	Monster made a deep bow.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001077.wav	esd_train.csv
+0018_001079	18	Rat came and replied on the leaves.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001079.wav	esd_train.csv
+0018_001080	18	Must a name mean something?	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001080.wav	esd_train.csv
+0018_001083	18	This used to be Jerry's occupation.	Sad	Data/ESD_DATA_24KHz/0018/Sad/0018_001083.wav	esd_train.csv
+0018_001403	18	That I owe my thanks to you.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001403.wav	esd_train.csv
+0018_001404	18	They went up to the dark mass job had pointed out.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001404.wav	esd_train.csv
+0018_001405	18	Clear than clear water!	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001405.wav	esd_train.csv
+0018_001407	18	I'm as bad as I can be.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001407.wav	esd_train.csv
+0018_001408	18	That was his chief thought.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001408.wav	esd_train.csv
+0018_001409	18	On the twenty second of last march.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001409.wav	esd_train.csv
+0018_001410	18	A nauseous draught.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001410.wav	esd_train.csv
+0018_001411	18	Chapter ten a warm welcome.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001411.wav	esd_train.csv
+0018_001412	18	Her shoes were like fishes.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001412.wav	esd_train.csv
+0018_001413	18	I have bunburyed all over goat on two separate occasions.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001413.wav	esd_train.csv
+0018_001414	18	Annie please please don't hurt me!	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001414.wav	esd_train.csv
+0018_001416	18	Mister share man, I move for a division.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001416.wav	esd_train.csv
+0018_001419	18	At the end of four.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001419.wav	esd_train.csv
+0018_001422	18	And what are doves. And what are doves.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001422.wav	esd_train.csv
+0018_001423	18	I thought you meant how old are you?	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001423.wav	esd_train.csv
+0018_001425	18	She is now choosing skirt to wear.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001425.wav	esd_train.csv
+0018_001427	18	Monster made a deep bow.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001427.wav	esd_train.csv
+0018_001429	18	Rat came and replied on the leaves.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001429.wav	esd_train.csv
+0018_001430	18	Must a name mean something?	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001430.wav	esd_train.csv
+0018_001433	18	This used to be Jerry's occupation.	Surprise	Data/ESD_DATA_24KHz/0018/Surprise/0018_001433.wav	esd_train.csv
+0020_000003	20	That I owe my thanks to you.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000003.wav	esd_train.csv
+0020_000004	20	They went up to the dark mass job had pointed out.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000004.wav	esd_train.csv
+0020_000005	20	Clear than clear water!	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000005.wav	esd_train.csv
+0020_000007	20	I'm as bad as I can be.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000007.wav	esd_train.csv
+0020_000008	20	That was his chief thought.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000008.wav	esd_train.csv
+0020_000009	20	On the twenty second of last march.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000009.wav	esd_train.csv
+0020_000010	20	A nauseous draught.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000010.wav	esd_train.csv
+0020_000011	20	Chapter ten a warm welcome.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000011.wav	esd_train.csv
+0020_000012	20	Her shoes were like fishes.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000012.wav	esd_train.csv
+0020_000013	20	I have bunburyed all over goat on two separate occasions.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000013.wav	esd_train.csv
+0020_000014	20	Annie please please don't hurt me!	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000014.wav	esd_train.csv
+0020_000016	20	Mister share man, I move for a division.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000016.wav	esd_train.csv
+0020_000019	20	At the end of four.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000019.wav	esd_train.csv
+0020_000022	20	And what are doves. And what are doves.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000022.wav	esd_train.csv
+0020_000023	20	I thought you meant how old are you?	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000023.wav	esd_train.csv
+0020_000025	20	She is now choosing skirt to wear.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000025.wav	esd_train.csv
+0020_000027	20	Monster made a deep bow.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000027.wav	esd_train.csv
+0020_000029	20	Rat came and replied on the leaves.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000029.wav	esd_train.csv
+0020_000030	20	Must a name mean something?	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000030.wav	esd_train.csv
+0020_000033	20	This used to be Jerry's occupation.	Neutral	Data/ESD_DATA_24KHz/0020/Neutral/0020_000033.wav	esd_train.csv
+0020_000353	20	That I owe my thanks to you.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000353.wav	esd_train.csv
+0020_000354	20	They went up to the dark mass job had pointed out.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000354.wav	esd_train.csv
+0020_000355	20	Clear than clear water!	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000355.wav	esd_train.csv
+0020_000357	20	I'm as bad as I can be.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000357.wav	esd_train.csv
+0020_000358	20	That was his chief thought.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000358.wav	esd_train.csv
+0020_000359	20	On the twenty second of last march.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000359.wav	esd_train.csv
+0020_000360	20	A nauseous draught.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000360.wav	esd_train.csv
+0020_000361	20	Chapter ten a warm welcome.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000361.wav	esd_train.csv
+0020_000362	20	Her shoes were like fishes.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000362.wav	esd_train.csv
+0020_000363	20	I have bunburyed all over goat on two separate occasions.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000363.wav	esd_train.csv
+0020_000364	20	Annie please please don't hurt me!	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000364.wav	esd_train.csv
+0020_000366	20	Mister share man, I move for a division.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000366.wav	esd_train.csv
+0020_000369	20	At the end of four.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000369.wav	esd_train.csv
+0020_000372	20	And what are doves. And what are doves.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000372.wav	esd_train.csv
+0020_000373	20	I thought you meant how old are you?	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000373.wav	esd_train.csv
+0020_000375	20	She is now choosing skirt to wear.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000375.wav	esd_train.csv
+0020_000377	20	Monster made a deep bow.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000377.wav	esd_train.csv
+0020_000379	20	Rat came and replied on the leaves.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000379.wav	esd_train.csv
+0020_000380	20	Must a name mean something?	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000380.wav	esd_train.csv
+0020_000383	20	This used to be Jerry's occupation.	Angry	Data/ESD_DATA_24KHz/0020/Angry/0020_000383.wav	esd_train.csv
+0020_000703	20	That I owe my thanks to you.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000703.wav	esd_train.csv
+0020_000704	20	They went up to the dark mass job had pointed out.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000704.wav	esd_train.csv
+0020_000705	20	Clear than clear water!	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000705.wav	esd_train.csv
+0020_000707	20	I'm as bad as I can be.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000707.wav	esd_train.csv
+0020_000708	20	That was his chief thought.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000708.wav	esd_train.csv
+0020_000709	20	On the twenty second of last march.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000709.wav	esd_train.csv
+0020_000710	20	A nauseous draught.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000710.wav	esd_train.csv
+0020_000711	20	Chapter ten a warm welcome.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000711.wav	esd_train.csv
+0020_000712	20	Her shoes were like fishes.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000712.wav	esd_train.csv
+0020_000713	20	I have bunburyed all over goat on two separate occasions.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000713.wav	esd_train.csv
+0020_000714	20	Annie please please don't hurt me!	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000714.wav	esd_train.csv
+0020_000716	20	Mister share man, I move for a division.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000716.wav	esd_train.csv
+0020_000719	20	At the end of four.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000719.wav	esd_train.csv
+0020_000722	20	And what are doves. And what are doves.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000722.wav	esd_train.csv
+0020_000723	20	I thought you meant how old are you?	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000723.wav	esd_train.csv
+0020_000725	20	She is now choosing skirt to wear.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000725.wav	esd_train.csv
+0020_000727	20	Monster made a deep bow.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000727.wav	esd_train.csv
+0020_000729	20	Rat came and replied on the leaves.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000729.wav	esd_train.csv
+0020_000730	20	Must a name mean something?	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000730.wav	esd_train.csv
+0020_000733	20	This used to be Jerry's occupation.	Happy	Data/ESD_DATA_24KHz/0020/Happy/0020_000733.wav	esd_train.csv
+0020_001053	20	That I owe my thanks to you.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001053.wav	esd_train.csv
+0020_001054	20	They went up to the dark mass job had pointed out.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001054.wav	esd_train.csv
+0020_001055	20	Clear than clear water!	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001055.wav	esd_train.csv
+0020_001057	20	I'm as bad as I can be.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001057.wav	esd_train.csv
+0020_001058	20	That was his chief thought.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001058.wav	esd_train.csv
+0020_001059	20	On the twenty second of last march.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001059.wav	esd_train.csv
+0020_001060	20	A nauseous draught.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001060.wav	esd_train.csv
+0020_001061	20	Chapter ten a warm welcome.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001061.wav	esd_train.csv
+0020_001062	20	Her shoes were like fishes.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001062.wav	esd_train.csv
+0020_001063	20	I have bunburyed all over goat on two separate occasions.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001063.wav	esd_train.csv
+0020_001064	20	Annie please please don't hurt me!	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001064.wav	esd_train.csv
+0020_001066	20	Mister share man, I move for a division.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001066.wav	esd_train.csv
+0020_001069	20	At the end of four.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001069.wav	esd_train.csv
+0020_001072	20	And what are doves. And what are doves.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001072.wav	esd_train.csv
+0020_001073	20	I thought you meant how old are you?	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001073.wav	esd_train.csv
+0020_001075	20	She is now choosing skirt to wear.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001075.wav	esd_train.csv
+0020_001077	20	Monster made a deep bow.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001077.wav	esd_train.csv
+0020_001079	20	Rat came and replied on the leaves.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001079.wav	esd_train.csv
+0020_001080	20	Must a name mean something?	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001080.wav	esd_train.csv
+0020_001083	20	This used to be Jerry's occupation.	Sad	Data/ESD_DATA_24KHz/0020/Sad/0020_001083.wav	esd_train.csv
+0020_001403	20	That I owe my thanks to you.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001403.wav	esd_train.csv
+0020_001404	20	They went up to the dark mass job had pointed out.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001404.wav	esd_train.csv
+0020_001405	20	Clear than clear water!	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001405.wav	esd_train.csv
+0020_001407	20	I'm as bad as I can be.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001407.wav	esd_train.csv
+0020_001408	20	That was his chief thought.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001408.wav	esd_train.csv
+0020_001409	20	On the twenty second of last march.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001409.wav	esd_train.csv
+0020_001410	20	A nauseous draught.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001410.wav	esd_train.csv
+0020_001411	20	Chapter ten a warm welcome.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001411.wav	esd_train.csv
+0020_001412	20	Her shoes were like fishes.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001412.wav	esd_train.csv
+0020_001413	20	I have bunburyed all over goat on two separate occasions.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001413.wav	esd_train.csv
+0020_001414	20	Annie please please don't hurt me!	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001414.wav	esd_train.csv
+0020_001416	20	Mister share man, I move for a division.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001416.wav	esd_train.csv
+0020_001419	20	At the end of four.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001419.wav	esd_train.csv
+0020_001422	20	And what are doves. And what are doves.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001422.wav	esd_train.csv
+0020_001423	20	I thought you meant how old are you?	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001423.wav	esd_train.csv
+0020_001425	20	She is now choosing skirt to wear.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001425.wav	esd_train.csv
+0020_001427	20	Monster made a deep bow.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001427.wav	esd_train.csv
+0020_001429	20	Rat came and replied on the leaves.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001429.wav	esd_train.csv
+0020_001430	20	Must a name mean something?	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001430.wav	esd_train.csv
+0020_001433	20	This used to be Jerry's occupation.	Surprise	Data/ESD_DATA_24KHz/0020/Surprise/0020_001433.wav	esd_train.csv
+0017_000003	17	That I owe my thanks to you.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000003.wav	esd_train.csv
+0017_000004	17	They went up to the dark mass job had pointed out.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000004.wav	esd_train.csv
+0017_000005	17	Clear than clear water!	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000005.wav	esd_train.csv
+0017_000007	17	I'm as bad as I can be.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000007.wav	esd_train.csv
+0017_000008	17	That was his chief thought.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000008.wav	esd_train.csv
+0017_000009	17	On the twenty second of last march.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000009.wav	esd_train.csv
+0017_000010	17	A nauseous draught.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000010.wav	esd_train.csv
+0017_000011	17	Chapter ten a warm welcome.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000011.wav	esd_train.csv
+0017_000012	17	Her shoes were like fishes.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000012.wav	esd_train.csv
+0017_000013	17	I have bunburyed all over goat on two separate occasions.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000013.wav	esd_train.csv
+0017_000014	17	Annie please please don't hurt me!	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000014.wav	esd_train.csv
+0017_000016	17	Mister share man, I move for a division.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000016.wav	esd_train.csv
+0017_000019	17	At the end of four.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000019.wav	esd_train.csv
+0017_000022	17	And what are doves. And what are doves.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000022.wav	esd_train.csv
+0017_000023	17	I thought you meant how old are you?	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000023.wav	esd_train.csv
+0017_000025	17	She is now choosing skirt to wear.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000025.wav	esd_train.csv
+0017_000027	17	Monster made a deep bow.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000027.wav	esd_train.csv
+0017_000029	17	Rat came and replied on the leaves.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000029.wav	esd_train.csv
+0017_000030	17	Must a name mean something?	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000030.wav	esd_train.csv
+0017_000033	17	This used to be Jerry's occupation.	Neutral	Data/ESD_DATA_24KHz/0017/Neutral/0017_000033.wav	esd_train.csv
+0017_000353	17	That I owe my thanks to you.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000353.wav	esd_train.csv
+0017_000354	17	They went up to the dark mass job had pointed out.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000354.wav	esd_train.csv
+0017_000355	17	Clear than clear water!	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000355.wav	esd_train.csv
+0017_000357	17	I'm as bad as I can be.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000357.wav	esd_train.csv
+0017_000358	17	That was his chief thought.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000358.wav	esd_train.csv
+0017_000359	17	On the twenty second of last march.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000359.wav	esd_train.csv
+0017_000360	17	A nauseous draught.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000360.wav	esd_train.csv
+0017_000361	17	Chapter ten a warm welcome.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000361.wav	esd_train.csv
+0017_000362	17	Her shoes were like fishes.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000362.wav	esd_train.csv
+0017_000363	17	I have bunburyed all over goat on two separate occasions.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000363.wav	esd_train.csv
+0017_000364	17	Annie please please don't hurt me!	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000364.wav	esd_train.csv
+0017_000366	17	Mister share man, I move for a division.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000366.wav	esd_train.csv
+0017_000369	17	At the end of four.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000369.wav	esd_train.csv
+0017_000372	17	And what are doves. And what are doves.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000372.wav	esd_train.csv
+0017_000373	17	I thought you meant how old are you?	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000373.wav	esd_train.csv
+0017_000375	17	She is now choosing skirt to wear.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000375.wav	esd_train.csv
+0017_000377	17	Monster made a deep bow.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000377.wav	esd_train.csv
+0017_000379	17	Rat came and replied on the leaves.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000379.wav	esd_train.csv
+0017_000380	17	Must a name mean something?	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000380.wav	esd_train.csv
+0017_000383	17	This used to be Jerry's occupation.	Angry	Data/ESD_DATA_24KHz/0017/Angry/0017_000383.wav	esd_train.csv
+0017_000703	17	That I owe my thanks to you.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000703.wav	esd_train.csv
+0017_000704	17	They went up to the dark mass job had pointed out.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000704.wav	esd_train.csv
+0017_000705	17	Clear than clear water!	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000705.wav	esd_train.csv
+0017_000707	17	I'm as bad as I can be.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000707.wav	esd_train.csv
+0017_000708	17	That was his chief thought.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000708.wav	esd_train.csv
+0017_000709	17	On the twenty second of last march.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000709.wav	esd_train.csv
+0017_000710	17	A nauseous draught.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000710.wav	esd_train.csv
+0017_000711	17	Chapter ten a warm welcome.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000711.wav	esd_train.csv
+0017_000712	17	Her shoes were like fishes.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000712.wav	esd_train.csv
+0017_000713	17	I have bunburyed all over goat on two separate occasions.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000713.wav	esd_train.csv
+0017_000714	17	Annie please please don't hurt me!	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000714.wav	esd_train.csv
+0017_000716	17	Mister share man, I move for a division.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000716.wav	esd_train.csv
+0017_000719	17	At the end of four.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000719.wav	esd_train.csv
+0017_000722	17	And what are doves. And what are doves.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000722.wav	esd_train.csv
+0017_000723	17	I thought you meant how old are you?	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000723.wav	esd_train.csv
+0017_000725	17	She is now choosing skirt to wear.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000725.wav	esd_train.csv
+0017_000727	17	Monster made a deep bow.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000727.wav	esd_train.csv
+0017_000729	17	Rat came and replied on the leaves.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000729.wav	esd_train.csv
+0017_000730	17	Must a name mean something?	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000730.wav	esd_train.csv
+0017_000733	17	This used to be Jerry's occupation.	Happy	Data/ESD_DATA_24KHz/0017/Happy/0017_000733.wav	esd_train.csv
+0017_001053	17	That I owe my thanks to you.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001053.wav	esd_train.csv
+0017_001054	17	They went up to the dark mass job had pointed out.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001054.wav	esd_train.csv
+0017_001055	17	Clear than clear water!	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001055.wav	esd_train.csv
+0017_001057	17	I'm as bad as I can be.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001057.wav	esd_train.csv
+0017_001058	17	That was his chief thought.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001058.wav	esd_train.csv
+0017_001059	17	On the twenty second of last march.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001059.wav	esd_train.csv
+0017_001060	17	A nauseous draught.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001060.wav	esd_train.csv
+0017_001061	17	Chapter ten a warm welcome.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001061.wav	esd_train.csv
+0017_001062	17	Her shoes were like fishes.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001062.wav	esd_train.csv
+0017_001063	17	I have bunburyed all over goat on two separate occasions.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001063.wav	esd_train.csv
+0017_001064	17	Annie please please don't hurt me!	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001064.wav	esd_train.csv
+0017_001066	17	Mister share man, I move for a division.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001066.wav	esd_train.csv
+0017_001069	17	At the end of four.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001069.wav	esd_train.csv
+0017_001072	17	And what are doves. And what are doves.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001072.wav	esd_train.csv
+0017_001073	17	I thought you meant how old are you?	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001073.wav	esd_train.csv
+0017_001075	17	She is now choosing skirt to wear.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001075.wav	esd_train.csv
+0017_001077	17	Monster made a deep bow.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001077.wav	esd_train.csv
+0017_001079	17	Rat came and replied on the leaves.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001079.wav	esd_train.csv
+0017_001080	17	Must a name mean something?	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001080.wav	esd_train.csv
+0017_001083	17	This used to be Jerry's occupation.	Sad	Data/ESD_DATA_24KHz/0017/Sad/0017_001083.wav	esd_train.csv
+0017_001403	17	That I owe my thanks to you.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001403.wav	esd_train.csv
+0017_001404	17	They went up to the dark mass job had pointed out.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001404.wav	esd_train.csv
+0017_001405	17	Clear than clear water!	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001405.wav	esd_train.csv
+0017_001407	17	I'm as bad as I can be.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001407.wav	esd_train.csv
+0017_001408	17	That was his chief thought.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001408.wav	esd_train.csv
+0017_001409	17	On the twenty second of last march.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001409.wav	esd_train.csv
+0017_001410	17	A nauseous draught.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001410.wav	esd_train.csv
+0017_001411	17	Chapter ten a warm welcome.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001411.wav	esd_train.csv
+0017_001412	17	Her shoes were like fishes.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001412.wav	esd_train.csv
+0017_001413	17	I have bunburyed all over goat on two separate occasions.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001413.wav	esd_train.csv
+0017_001414	17	Annie please please don't hurt me!	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001414.wav	esd_train.csv
+0017_001416	17	Mister share man, I move for a division.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001416.wav	esd_train.csv
+0017_001419	17	At the end of four.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001419.wav	esd_train.csv
+0017_001422	17	And what are doves. And what are doves.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001422.wav	esd_train.csv
+0017_001423	17	I thought you meant how old are you?	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001423.wav	esd_train.csv
+0017_001425	17	She is now choosing skirt to wear.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001425.wav	esd_train.csv
+0017_001427	17	Monster made a deep bow.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001427.wav	esd_train.csv
+0017_001429	17	Rat came and replied on the leaves.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001429.wav	esd_train.csv
+0017_001430	17	Must a name mean something?	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001430.wav	esd_train.csv
+0017_001433	17	This used to be Jerry's occupation.	Surprise	Data/ESD_DATA_24KHz/0017/Surprise/0017_001433.wav	esd_train.csv
+0019_000003	19	That I owe my thanks to you.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000003.wav	esd_val.csv
+0019_000004	19	They went up to the dark mass job had pointed out.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000004.wav	esd_val.csv
+0019_000005	19	Clear than clear water!	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000005.wav	esd_val.csv
+0019_000007	19	I'm as bad as I can be.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000007.wav	esd_val.csv
+0019_000008	19	That was his chief thought.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000008.wav	esd_val.csv
+0019_000009	19	On the twenty second of last march.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000009.wav	esd_val.csv
+0019_000010	19	A nauseous draught.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000010.wav	esd_val.csv
+0019_000011	19	Chapter ten a warm welcome.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000011.wav	esd_val.csv
+0019_000012	19	Her shoes were like fishes.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000012.wav	esd_val.csv
+0019_000013	19	I have bunburyed all over goat on two separate occasions.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000013.wav	esd_val.csv
+0019_000014	19	Annie please please don't hurt me!	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000014.wav	esd_val.csv
+0019_000016	19	Mister share man, I move for a division.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000016.wav	esd_val.csv
+0019_000019	19	At the end of four.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000019.wav	esd_val.csv
+0019_000022	19	And what are doves. And what are doves.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000022.wav	esd_val.csv
+0019_000023	19	I thought you meant how old are you?	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000023.wav	esd_val.csv
+0019_000025	19	She is now choosing skirt to wear.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000025.wav	esd_val.csv
+0019_000027	19	Monster made a deep bow.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000027.wav	esd_val.csv
+0019_000029	19	Rat came and replied on the leaves.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000029.wav	esd_val.csv
+0019_000030	19	Must a name mean something?	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000030.wav	esd_val.csv
+0019_000033	19	This used to be Jerry's occupation.	Neutral	Data/ESD_DATA_24KHz/0019/Neutral/0019_000033.wav	esd_val.csv
+0019_000353	19	That I owe my thanks to you.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000353.wav	esd_val.csv
+0019_000354	19	They went up to the dark mass job had pointed out.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000354.wav	esd_val.csv
+0019_000355	19	Clear than clear water!	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000355.wav	esd_val.csv
+0019_000357	19	I'm as bad as I can be.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000357.wav	esd_val.csv
+0019_000358	19	That was his chief thought.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000358.wav	esd_val.csv
+0019_000359	19	On the twenty second of last march.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000359.wav	esd_val.csv
+0019_000360	19	A nauseous draught.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000360.wav	esd_val.csv
+0019_000361	19	Chapter ten a warm welcome.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000361.wav	esd_val.csv
+0019_000362	19	Her shoes were like fishes.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000362.wav	esd_val.csv
+0019_000363	19	I have bunburyed all over goat on two separate occasions.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000363.wav	esd_val.csv
+0019_000364	19	Annie please please don't hurt me!	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000364.wav	esd_val.csv
+0019_000366	19	Mister share man, I move for a division.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000366.wav	esd_val.csv
+0019_000369	19	At the end of four.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000369.wav	esd_val.csv
+0019_000372	19	And what are doves. And what are doves.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000372.wav	esd_val.csv
+0019_000373	19	I thought you meant how old are you?	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000373.wav	esd_val.csv
+0019_000375	19	She is now choosing skirt to wear.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000375.wav	esd_val.csv
+0019_000377	19	Monster made a deep bow.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000377.wav	esd_val.csv
+0019_000379	19	Rat came and replied on the leaves.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000379.wav	esd_val.csv
+0019_000380	19	Must a name mean something?	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000380.wav	esd_val.csv
+0019_000383	19	This used to be Jerry's occupation.	Angry	Data/ESD_DATA_24KHz/0019/Angry/0019_000383.wav	esd_val.csv
+0019_000703	19	That I owe my thanks to you.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000703.wav	esd_val.csv
+0019_000704	19	They went up to the dark mass job had pointed out.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000704.wav	esd_val.csv
+0019_000705	19	Clear than clear water!	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000705.wav	esd_val.csv
+0019_000707	19	I'm as bad as I can be.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000707.wav	esd_val.csv
+0019_000708	19	That was his chief thought.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000708.wav	esd_val.csv
+0019_000709	19	On the twenty second of last march.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000709.wav	esd_val.csv
+0019_000710	19	A nauseous draught.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000710.wav	esd_val.csv
+0019_000711	19	Chapter ten a warm welcome.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000711.wav	esd_val.csv
+0019_000712	19	Her shoes were like fishes.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000712.wav	esd_val.csv
+0019_000713	19	I have bunburyed all over goat on two separate occasions.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000713.wav	esd_val.csv
+0019_000714	19	Annie please please don't hurt me!	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000714.wav	esd_val.csv
+0019_000716	19	Mister share man, I move for a division.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000716.wav	esd_val.csv
+0019_000719	19	At the end of four.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000719.wav	esd_val.csv
+0019_000722	19	And what are doves. And what are doves.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000722.wav	esd_val.csv
+0019_000723	19	I thought you meant how old are you?	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000723.wav	esd_val.csv
+0019_000725	19	She is now choosing skirt to wear.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000725.wav	esd_val.csv
+0019_000727	19	Monster made a deep bow.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000727.wav	esd_val.csv
+0019_000729	19	Rat came and replied on the leaves.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000729.wav	esd_val.csv
+0019_000730	19	Must a name mean something?	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000730.wav	esd_val.csv
+0019_000733	19	This used to be Jerry's occupation.	Happy	Data/ESD_DATA_24KHz/0019/Happy/0019_000733.wav	esd_val.csv
+0019_001053	19	That I owe my thanks to you.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001053.wav	esd_val.csv
+0019_001054	19	They went up to the dark mass job had pointed out.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001054.wav	esd_val.csv
+0019_001055	19	Clear than clear water!	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001055.wav	esd_val.csv
+0019_001057	19	I'm as bad as I can be.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001057.wav	esd_val.csv
+0019_001058	19	That was his chief thought.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001058.wav	esd_val.csv
+0019_001059	19	On the twenty second of last march.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001059.wav	esd_val.csv
+0019_001060	19	A nauseous draught.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001060.wav	esd_val.csv
+0019_001061	19	Chapter ten a warm welcome.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001061.wav	esd_val.csv
+0019_001062	19	Her shoes were like fishes.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001062.wav	esd_val.csv
+0019_001063	19	I have bunburyed all over goat on two separate occasions.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001063.wav	esd_val.csv
+0019_001064	19	Annie please please don't hurt me!	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001064.wav	esd_val.csv
+0019_001066	19	Mister share man, I move for a division.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001066.wav	esd_val.csv
+0019_001069	19	At the end of four.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001069.wav	esd_val.csv
+0019_001072	19	And what are doves. And what are doves.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001072.wav	esd_val.csv
+0019_001073	19	I thought you meant how old are you?	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001073.wav	esd_val.csv
+0019_001075	19	She is now choosing skirt to wear.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001075.wav	esd_val.csv
+0019_001077	19	Monster made a deep bow.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001077.wav	esd_val.csv
+0019_001079	19	Rat came and replied on the leaves.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001079.wav	esd_val.csv
+0019_001080	19	Must a name mean something?	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001080.wav	esd_val.csv
+0019_001083	19	This used to be Jerry's occupation.	Sad	Data/ESD_DATA_24KHz/0019/Sad/0019_001083.wav	esd_val.csv
+0019_001403	19	That I owe my thanks to you.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001403.wav	esd_val.csv
+0019_001404	19	They went up to the dark mass job had pointed out.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001404.wav	esd_val.csv
+0019_001405	19	Clear than clear water!	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001405.wav	esd_val.csv
+0019_001407	19	I'm as bad as I can be.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001407.wav	esd_val.csv
+0019_001408	19	That was his chief thought.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001408.wav	esd_val.csv
+0019_001409	19	On the twenty second of last march.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001409.wav	esd_val.csv
+0019_001410	19	A nauseous draught.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001410.wav	esd_val.csv
+0019_001411	19	Chapter ten a warm welcome.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001411.wav	esd_val.csv
+0019_001412	19	Her shoes were like fishes.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001412.wav	esd_val.csv
+0019_001413	19	I have bunburyed all over goat on two separate occasions.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001413.wav	esd_val.csv
+0019_001414	19	Annie please please don't hurt me!	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001414.wav	esd_val.csv
+0019_001416	19	Mister share man, I move for a division.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001416.wav	esd_val.csv
+0019_001419	19	At the end of four.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001419.wav	esd_val.csv
+0019_001422	19	And what are doves. And what are doves.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001422.wav	esd_val.csv
+0019_001423	19	I thought you meant how old are you?	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001423.wav	esd_val.csv
+0019_001425	19	She is now choosing skirt to wear.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001425.wav	esd_val.csv
+0019_001427	19	Monster made a deep bow.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001427.wav	esd_val.csv
+0019_001429	19	Rat came and replied on the leaves.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001429.wav	esd_val.csv
+0019_001430	19	Must a name mean something?	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001430.wav	esd_val.csv
+0019_001433	19	This used to be Jerry's occupation.	Surprise	Data/ESD_DATA_24KHz/0019/Surprise/0019_001433.wav	esd_val.csv

@@ -1,0 +1,5 @@
+model_variant,condition,clips,pair_families,spearman_alpha_strength
+inferred,ssst,36,12,0.5374184523452127
+native,ssst,36,12,0.34421992698716763
+inferred,dsst,36,12,0.3258342291487503
+native,dsst,36,12,0.5186086366739248

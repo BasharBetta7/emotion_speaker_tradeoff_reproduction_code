@@ -1,0 +1,141 @@
+{
+  "source": "supplement/tradeoff-curves-95ci.csv",
+  "source_sha256": "7ba9ea06f33182fe4d85cc0478dd29e5e2c74e542bbc79a2086823ef0ffffb41",
+  "curves": [
+    {
+      "condition": "ssst",
+      "emotion": "Angry",
+      "model": "inferred",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    },
+    {
+      "condition": "ssst",
+      "emotion": "Angry",
+      "model": "native",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    },
+    {
+      "condition": "ssst",
+      "emotion": "Happy",
+      "model": "inferred",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    },
+    {
+      "condition": "ssst",
+      "emotion": "Happy",
+      "model": "native",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    },
+    {
+      "condition": "ssst",
+      "emotion": "Sad",
+      "model": "inferred",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    },
+    {
+      "condition": "ssst",
+      "emotion": "Sad",
+      "model": "native",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    },
+    {
+      "condition": "dsst",
+      "emotion": "Angry",
+      "model": "inferred",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    },
+    {
+      "condition": "dsst",
+      "emotion": "Angry",
+      "model": "native",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    },
+    {
+      "condition": "dsst",
+      "emotion": "Happy",
+      "model": "inferred",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    },
+    {
+      "condition": "dsst",
+      "emotion": "Happy",
+      "model": "native",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    },
+    {
+      "condition": "dsst",
+      "emotion": "Sad",
+      "model": "inferred",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    },
+    {
+      "condition": "dsst",
+      "emotion": "Sad",
+      "model": "native",
+      "alphas": [
+        0.0,
+        0.6,
+        1.0
+      ],
+      "pairs_per_point": 4
+    }
+  ],
+  "alpha_labels": 36,
+  "new_intervals": 0,
+  "new_experiments": 0
+}

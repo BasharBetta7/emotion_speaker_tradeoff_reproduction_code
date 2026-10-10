@@ -1,0 +1,1057 @@
+file_id	speaker_id	text	sentence_code	text_rank	emotion	intensity	wav_path	metadata_source
+1003_DFA_ANG_XX	1003	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1003_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1003_DFA_HAP_XX	1003	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1003_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1003_DFA_NEU_XX	1003	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1003_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1003_DFA_SAD_XX	1003	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1003_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1003_IOM_ANG_XX	1003	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1003_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1003_IOM_HAP_XX	1003	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1003_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1003_IOM_NEU_XX	1003	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1003_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1003_IOM_SAD_XX	1003	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1003_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1003_ITH_ANG_XX	1003	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1003_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1003_ITH_HAP_XX	1003	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1003_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1003_ITH_NEU_XX	1003	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1003_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1003_ITH_SAD_XX	1003	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1003_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1003_ITS_ANG_XX	1003	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1003_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1003_ITS_HAP_XX	1003	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1003_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1003_ITS_NEU_XX	1003	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1003_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1003_ITS_SAD_XX	1003	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1003_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1003_IWL_ANG_XX	1003	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1003_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1003_IWL_HAP_XX	1003	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1003_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1003_IWL_NEU_XX	1003	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1003_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1003_IWL_SAD_XX	1003	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1003_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1003_IWW_ANG_XX	1003	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1003_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1003_IWW_HAP_XX	1003	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1003_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1003_IWW_NEU_XX	1003	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1003_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1003_IWW_SAD_XX	1003	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1003_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1003_MTI_ANG_XX	1003	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1003_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1003_MTI_HAP_XX	1003	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1003_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1003_MTI_NEU_XX	1003	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1003_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1003_MTI_SAD_XX	1003	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1003_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1003_TAI_ANG_XX	1003	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1003_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1003_TAI_HAP_XX	1003	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1003_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1003_TAI_NEU_XX	1003	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1003_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1003_TAI_SAD_XX	1003	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1003_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1003_TIE_ANG_XX	1003	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1003_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1003_TIE_HAP_XX	1003	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1003_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1003_TIE_NEU_XX	1003	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1003_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1003_TIE_SAD_XX	1003	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1003_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1003_TSI_ANG_XX	1003	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1003_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1003_TSI_HAP_XX	1003	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1003_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1003_TSI_NEU_XX	1003	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1003_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1003_TSI_SAD_XX	1003	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1003_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1003_WSI_ANG_XX	1003	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1003_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1003_WSI_HAP_XX	1003	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1003_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1003_WSI_NEU_XX	1003	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1003_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1003_WSI_SAD_XX	1003	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1003_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1011_DFA_ANG_XX	1011	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1011_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1011_DFA_HAP_XX	1011	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1011_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1011_DFA_NEU_XX	1011	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1011_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1011_DFA_SAD_XX	1011	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1011_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1011_IOM_ANG_XX	1011	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1011_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1011_IOM_HAP_XX	1011	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1011_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1011_IOM_NEU_XX	1011	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1011_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1011_IOM_SAD_XX	1011	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1011_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1011_ITH_ANG_XX	1011	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1011_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1011_ITH_HAP_XX	1011	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1011_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1011_ITH_NEU_XX	1011	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1011_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1011_ITH_SAD_XX	1011	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1011_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1011_ITS_ANG_XX	1011	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1011_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1011_ITS_HAP_XX	1011	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1011_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1011_ITS_NEU_XX	1011	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1011_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1011_ITS_SAD_XX	1011	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1011_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1011_IWL_ANG_XX	1011	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1011_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1011_IWL_HAP_XX	1011	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1011_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1011_IWL_NEU_XX	1011	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1011_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1011_IWL_SAD_XX	1011	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1011_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1011_IWW_ANG_XX	1011	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1011_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1011_IWW_HAP_XX	1011	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1011_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1011_IWW_NEU_XX	1011	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1011_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1011_IWW_SAD_XX	1011	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1011_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1011_MTI_ANG_XX	1011	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1011_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1011_MTI_HAP_XX	1011	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1011_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1011_MTI_NEU_XX	1011	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1011_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1011_MTI_SAD_XX	1011	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1011_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1011_TAI_ANG_XX	1011	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1011_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1011_TAI_HAP_XX	1011	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1011_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1011_TAI_NEU_XX	1011	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1011_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1011_TAI_SAD_XX	1011	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1011_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1011_TIE_ANG_XX	1011	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1011_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1011_TIE_HAP_XX	1011	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1011_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1011_TIE_NEU_XX	1011	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1011_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1011_TIE_SAD_XX	1011	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1011_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1011_TSI_ANG_XX	1011	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1011_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1011_TSI_HAP_XX	1011	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1011_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1011_TSI_NEU_XX	1011	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1011_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1011_TSI_SAD_XX	1011	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1011_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1011_WSI_ANG_XX	1011	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1011_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1011_WSI_HAP_XX	1011	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1011_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1011_WSI_NEU_XX	1011	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1011_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1011_WSI_SAD_XX	1011	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1011_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1012_DFA_ANG_XX	1012	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1012_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1012_DFA_HAP_XX	1012	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1012_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1012_DFA_NEU_XX	1012	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1012_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1012_DFA_SAD_XX	1012	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1012_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1012_IOM_ANG_XX	1012	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1012_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1012_IOM_HAP_XX	1012	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1012_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1012_IOM_NEU_XX	1012	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1012_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1012_IOM_SAD_XX	1012	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1012_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1012_ITH_ANG_XX	1012	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1012_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1012_ITH_HAP_XX	1012	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1012_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1012_ITH_NEU_XX	1012	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1012_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1012_ITH_SAD_XX	1012	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1012_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1012_ITS_ANG_XX	1012	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1012_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1012_ITS_HAP_XX	1012	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1012_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1012_ITS_NEU_XX	1012	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1012_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1012_ITS_SAD_XX	1012	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1012_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1012_IWL_ANG_XX	1012	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1012_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1012_IWL_HAP_XX	1012	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1012_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1012_IWL_NEU_XX	1012	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1012_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1012_IWL_SAD_XX	1012	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1012_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1012_IWW_ANG_XX	1012	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1012_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1012_IWW_HAP_XX	1012	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1012_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1012_IWW_NEU_XX	1012	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1012_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1012_IWW_SAD_XX	1012	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1012_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1012_MTI_ANG_XX	1012	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1012_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1012_MTI_HAP_XX	1012	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1012_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1012_MTI_NEU_XX	1012	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1012_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1012_MTI_SAD_XX	1012	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1012_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1012_TAI_ANG_XX	1012	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1012_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1012_TAI_HAP_XX	1012	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1012_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1012_TAI_NEU_XX	1012	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1012_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1012_TAI_SAD_XX	1012	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1012_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1012_TIE_ANG_XX	1012	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1012_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1012_TIE_HAP_XX	1012	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1012_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1012_TIE_NEU_XX	1012	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1012_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1012_TIE_SAD_XX	1012	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1012_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1012_TSI_ANG_XX	1012	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1012_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1012_TSI_HAP_XX	1012	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1012_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1012_TSI_NEU_XX	1012	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1012_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1012_TSI_SAD_XX	1012	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1012_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1012_WSI_ANG_XX	1012	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1012_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1012_WSI_HAP_XX	1012	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1012_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1012_WSI_NEU_XX	1012	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1012_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1012_WSI_SAD_XX	1012	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1012_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1014_DFA_ANG_XX	1014	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1014_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1014_DFA_HAP_XX	1014	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1014_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1014_DFA_NEU_XX	1014	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1014_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1014_DFA_SAD_XX	1014	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1014_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1014_IOM_ANG_XX	1014	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1014_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1014_IOM_HAP_XX	1014	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1014_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1014_IOM_NEU_XX	1014	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1014_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1014_IOM_SAD_XX	1014	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1014_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1014_ITH_ANG_XX	1014	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1014_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1014_ITH_HAP_XX	1014	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1014_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1014_ITH_NEU_XX	1014	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1014_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1014_ITH_SAD_XX	1014	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1014_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1014_ITS_ANG_XX	1014	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1014_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1014_ITS_HAP_XX	1014	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1014_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1014_ITS_NEU_XX	1014	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1014_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1014_ITS_SAD_XX	1014	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1014_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1014_IWL_ANG_XX	1014	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1014_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1014_IWL_HAP_XX	1014	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1014_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1014_IWL_NEU_XX	1014	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1014_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1014_IWL_SAD_XX	1014	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1014_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1014_IWW_ANG_XX	1014	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1014_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1014_IWW_HAP_XX	1014	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1014_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1014_IWW_NEU_XX	1014	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1014_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1014_IWW_SAD_XX	1014	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1014_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1014_MTI_ANG_XX	1014	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1014_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1014_MTI_HAP_XX	1014	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1014_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1014_MTI_NEU_XX	1014	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1014_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1014_MTI_SAD_XX	1014	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1014_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1014_TAI_ANG_XX	1014	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1014_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1014_TAI_HAP_XX	1014	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1014_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1014_TAI_NEU_XX	1014	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1014_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1014_TAI_SAD_XX	1014	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1014_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1014_TIE_ANG_XX	1014	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1014_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1014_TIE_HAP_XX	1014	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1014_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1014_TIE_NEU_XX	1014	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1014_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1014_TIE_SAD_XX	1014	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1014_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1014_TSI_ANG_XX	1014	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1014_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1014_TSI_HAP_XX	1014	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1014_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1014_TSI_NEU_XX	1014	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1014_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1014_TSI_SAD_XX	1014	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1014_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1014_WSI_ANG_XX	1014	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1014_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1014_WSI_HAP_XX	1014	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1014_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1014_WSI_NEU_XX	1014	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1014_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1014_WSI_SAD_XX	1014	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1014_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1015_DFA_ANG_XX	1015	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1015_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1015_DFA_HAP_XX	1015	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1015_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1015_DFA_NEU_XX	1015	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1015_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1015_DFA_SAD_XX	1015	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1015_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1015_IOM_ANG_XX	1015	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1015_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1015_IOM_HAP_XX	1015	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1015_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1015_IOM_NEU_XX	1015	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1015_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1015_IOM_SAD_XX	1015	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1015_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1015_ITH_ANG_XX	1015	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1015_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1015_ITH_HAP_XX	1015	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1015_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1015_ITH_NEU_XX	1015	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1015_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1015_ITH_SAD_XX	1015	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1015_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1015_ITS_ANG_XX	1015	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1015_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1015_ITS_HAP_XX	1015	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1015_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1015_ITS_NEU_XX	1015	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1015_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1015_ITS_SAD_XX	1015	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1015_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1015_IWL_ANG_XX	1015	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1015_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1015_IWL_HAP_XX	1015	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1015_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1015_IWL_NEU_XX	1015	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1015_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1015_IWL_SAD_XX	1015	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1015_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1015_IWW_ANG_XX	1015	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1015_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1015_IWW_HAP_XX	1015	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1015_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1015_IWW_NEU_XX	1015	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1015_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1015_IWW_SAD_XX	1015	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1015_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1015_MTI_ANG_XX	1015	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1015_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1015_MTI_HAP_XX	1015	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1015_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1015_MTI_NEU_XX	1015	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1015_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1015_MTI_SAD_XX	1015	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1015_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1015_TAI_ANG_XX	1015	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1015_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1015_TAI_HAP_XX	1015	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1015_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1015_TAI_NEU_XX	1015	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1015_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1015_TAI_SAD_XX	1015	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1015_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1015_TIE_ANG_XX	1015	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1015_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1015_TIE_HAP_XX	1015	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1015_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1015_TIE_NEU_XX	1015	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1015_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1015_TIE_SAD_XX	1015	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1015_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1015_TSI_ANG_XX	1015	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1015_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1015_TSI_HAP_XX	1015	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1015_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1015_TSI_NEU_XX	1015	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1015_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1015_TSI_SAD_XX	1015	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1015_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1015_WSI_ANG_XX	1015	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1015_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1015_WSI_HAP_XX	1015	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1015_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1015_WSI_NEU_XX	1015	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1015_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1015_WSI_SAD_XX	1015	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1015_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1024_DFA_ANG_XX	1024	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1024_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1024_DFA_HAP_XX	1024	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1024_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1024_DFA_NEU_XX	1024	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1024_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1024_DFA_SAD_XX	1024	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1024_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1024_IOM_ANG_XX	1024	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1024_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1024_IOM_HAP_XX	1024	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1024_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1024_IOM_NEU_XX	1024	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1024_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1024_IOM_SAD_XX	1024	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1024_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1024_ITH_ANG_XX	1024	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1024_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1024_ITH_HAP_XX	1024	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1024_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1024_ITH_NEU_XX	1024	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1024_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1024_ITH_SAD_XX	1024	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1024_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1024_ITS_ANG_XX	1024	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1024_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1024_ITS_HAP_XX	1024	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1024_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1024_ITS_NEU_XX	1024	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1024_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1024_ITS_SAD_XX	1024	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1024_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1024_IWL_ANG_XX	1024	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1024_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1024_IWL_HAP_XX	1024	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1024_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1024_IWL_NEU_XX	1024	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1024_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1024_IWL_SAD_XX	1024	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1024_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1024_IWW_ANG_XX	1024	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1024_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1024_IWW_HAP_XX	1024	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1024_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1024_IWW_NEU_XX	1024	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1024_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1024_IWW_SAD_XX	1024	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1024_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1024_MTI_ANG_XX	1024	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1024_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1024_MTI_HAP_XX	1024	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1024_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1024_MTI_NEU_XX	1024	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1024_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1024_MTI_SAD_XX	1024	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1024_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1024_TAI_ANG_XX	1024	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1024_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1024_TAI_HAP_XX	1024	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1024_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1024_TAI_NEU_XX	1024	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1024_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1024_TAI_SAD_XX	1024	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1024_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1024_TIE_ANG_XX	1024	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1024_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1024_TIE_HAP_XX	1024	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1024_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1024_TIE_NEU_XX	1024	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1024_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1024_TIE_SAD_XX	1024	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1024_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1024_TSI_ANG_XX	1024	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1024_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1024_TSI_HAP_XX	1024	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1024_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1024_TSI_NEU_XX	1024	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1024_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1024_TSI_SAD_XX	1024	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1024_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1024_WSI_ANG_XX	1024	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1024_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1024_WSI_HAP_XX	1024	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1024_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1024_WSI_NEU_XX	1024	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1024_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1024_WSI_SAD_XX	1024	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1024_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1028_DFA_ANG_XX	1028	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1028_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1028_DFA_HAP_XX	1028	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1028_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1028_DFA_NEU_XX	1028	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1028_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1028_DFA_SAD_XX	1028	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1028_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1028_IOM_ANG_XX	1028	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1028_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1028_IOM_HAP_XX	1028	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1028_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1028_IOM_NEU_XX	1028	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1028_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1028_IOM_SAD_XX	1028	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1028_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1028_ITH_ANG_XX	1028	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1028_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1028_ITH_HAP_XX	1028	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1028_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1028_ITH_NEU_XX	1028	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1028_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1028_ITH_SAD_XX	1028	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1028_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1028_ITS_ANG_XX	1028	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1028_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1028_ITS_HAP_XX	1028	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1028_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1028_ITS_NEU_XX	1028	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1028_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1028_ITS_SAD_XX	1028	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1028_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1028_IWL_ANG_XX	1028	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1028_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1028_IWL_HAP_XX	1028	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1028_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1028_IWL_NEU_XX	1028	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1028_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1028_IWL_SAD_XX	1028	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1028_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1028_IWW_ANG_XX	1028	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1028_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1028_IWW_HAP_XX	1028	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1028_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1028_IWW_NEU_XX	1028	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1028_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1028_IWW_SAD_XX	1028	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1028_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1028_MTI_ANG_XX	1028	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1028_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1028_MTI_HAP_XX	1028	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1028_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1028_MTI_NEU_XX	1028	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1028_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1028_MTI_SAD_XX	1028	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1028_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1028_TAI_ANG_XX	1028	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1028_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1028_TAI_HAP_XX	1028	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1028_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1028_TAI_NEU_XX	1028	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1028_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1028_TAI_SAD_XX	1028	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1028_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1028_TIE_ANG_XX	1028	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1028_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1028_TIE_HAP_XX	1028	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1028_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1028_TIE_NEU_XX	1028	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1028_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1028_TIE_SAD_XX	1028	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1028_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1028_TSI_ANG_XX	1028	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1028_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1028_TSI_HAP_XX	1028	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1028_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1028_TSI_NEU_XX	1028	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1028_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1028_TSI_SAD_XX	1028	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1028_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1028_WSI_ANG_XX	1028	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1028_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1028_WSI_HAP_XX	1028	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1028_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1028_WSI_NEU_XX	1028	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1028_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1028_WSI_SAD_XX	1028	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1028_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1029_DFA_ANG_XX	1029	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1029_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1029_DFA_HAP_XX	1029	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1029_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1029_DFA_NEU_XX	1029	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1029_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1029_DFA_SAD_XX	1029	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1029_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1029_IOM_ANG_XX	1029	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1029_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1029_IOM_HAP_XX	1029	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1029_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1029_IOM_NEU_XX	1029	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1029_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1029_IOM_SAD_XX	1029	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1029_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1029_ITH_ANG_XX	1029	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1029_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1029_ITH_HAP_XX	1029	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1029_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1029_ITH_NEU_XX	1029	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1029_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1029_ITH_SAD_XX	1029	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1029_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1029_ITS_ANG_XX	1029	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1029_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1029_ITS_HAP_XX	1029	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1029_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1029_ITS_NEU_XX	1029	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1029_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1029_ITS_SAD_XX	1029	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1029_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1029_IWL_ANG_XX	1029	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1029_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1029_IWL_HAP_XX	1029	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1029_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1029_IWL_NEU_XX	1029	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1029_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1029_IWL_SAD_XX	1029	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1029_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1029_IWW_ANG_XX	1029	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1029_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1029_IWW_HAP_XX	1029	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1029_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1029_IWW_NEU_XX	1029	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1029_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1029_IWW_SAD_XX	1029	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1029_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1029_MTI_ANG_XX	1029	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1029_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1029_MTI_HAP_XX	1029	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1029_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1029_MTI_NEU_XX	1029	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1029_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1029_MTI_SAD_XX	1029	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1029_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1029_TAI_ANG_XX	1029	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1029_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1029_TAI_HAP_XX	1029	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1029_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1029_TAI_NEU_XX	1029	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1029_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1029_TAI_SAD_XX	1029	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1029_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1029_TIE_ANG_XX	1029	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1029_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1029_TIE_HAP_XX	1029	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1029_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1029_TIE_NEU_XX	1029	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1029_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1029_TIE_SAD_XX	1029	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1029_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1029_TSI_ANG_XX	1029	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1029_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1029_TSI_HAP_XX	1029	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1029_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1029_TSI_NEU_XX	1029	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1029_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1029_TSI_SAD_XX	1029	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1029_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1029_WSI_ANG_XX	1029	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1029_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1029_WSI_HAP_XX	1029	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1029_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1029_WSI_NEU_XX	1029	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1029_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1029_WSI_SAD_XX	1029	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1029_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1031_DFA_ANG_XX	1031	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1031_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1031_DFA_HAP_XX	1031	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1031_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1031_DFA_NEU_XX	1031	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1031_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1031_DFA_SAD_XX	1031	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1031_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1031_IOM_ANG_XX	1031	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1031_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1031_IOM_HAP_XX	1031	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1031_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1031_IOM_NEU_XX	1031	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1031_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1031_IOM_SAD_XX	1031	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1031_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1031_ITH_ANG_XX	1031	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1031_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1031_ITH_HAP_XX	1031	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1031_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1031_ITH_NEU_XX	1031	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1031_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1031_ITH_SAD_XX	1031	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1031_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1031_ITS_ANG_XX	1031	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1031_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1031_ITS_HAP_XX	1031	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1031_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1031_ITS_NEU_XX	1031	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1031_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1031_ITS_SAD_XX	1031	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1031_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1031_IWL_ANG_XX	1031	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1031_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1031_IWL_HAP_XX	1031	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1031_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1031_IWL_NEU_XX	1031	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1031_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1031_IWL_SAD_XX	1031	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1031_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1031_IWW_ANG_XX	1031	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1031_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1031_IWW_HAP_XX	1031	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1031_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1031_IWW_NEU_XX	1031	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1031_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1031_IWW_SAD_XX	1031	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1031_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1031_MTI_ANG_XX	1031	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1031_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1031_MTI_HAP_XX	1031	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1031_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1031_MTI_NEU_XX	1031	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1031_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1031_MTI_SAD_XX	1031	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1031_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1031_TAI_ANG_XX	1031	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1031_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1031_TAI_HAP_XX	1031	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1031_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1031_TAI_NEU_XX	1031	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1031_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1031_TAI_SAD_XX	1031	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1031_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1031_TIE_ANG_XX	1031	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1031_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1031_TIE_HAP_XX	1031	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1031_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1031_TIE_NEU_XX	1031	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1031_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1031_TIE_SAD_XX	1031	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1031_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1031_TSI_ANG_XX	1031	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1031_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1031_TSI_HAP_XX	1031	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1031_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1031_TSI_NEU_XX	1031	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1031_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1031_TSI_SAD_XX	1031	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1031_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1031_WSI_ANG_XX	1031	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1031_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1031_WSI_HAP_XX	1031	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1031_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1031_WSI_NEU_XX	1031	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1031_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1031_WSI_SAD_XX	1031	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1031_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1034_DFA_ANG_XX	1034	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1034_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1034_DFA_HAP_XX	1034	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1034_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1034_DFA_NEU_XX	1034	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1034_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1034_DFA_SAD_XX	1034	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1034_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1034_IOM_ANG_XX	1034	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1034_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1034_IOM_HAP_XX	1034	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1034_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1034_IOM_NEU_XX	1034	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1034_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1034_IOM_SAD_XX	1034	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1034_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1034_ITH_ANG_XX	1034	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1034_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1034_ITH_HAP_XX	1034	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1034_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1034_ITH_NEU_XX	1034	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1034_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1034_ITH_SAD_XX	1034	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1034_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1034_ITS_ANG_XX	1034	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1034_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1034_ITS_HAP_XX	1034	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1034_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1034_ITS_NEU_XX	1034	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1034_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1034_ITS_SAD_XX	1034	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1034_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1034_IWL_ANG_XX	1034	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1034_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1034_IWL_HAP_XX	1034	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1034_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1034_IWL_NEU_XX	1034	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1034_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1034_IWL_SAD_XX	1034	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1034_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1034_IWW_ANG_XX	1034	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1034_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1034_IWW_HAP_XX	1034	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1034_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1034_IWW_NEU_XX	1034	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1034_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1034_IWW_SAD_XX	1034	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1034_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1034_MTI_ANG_XX	1034	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1034_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1034_MTI_HAP_XX	1034	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1034_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1034_MTI_NEU_XX	1034	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1034_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1034_MTI_SAD_XX	1034	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1034_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1034_TAI_ANG_XX	1034	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1034_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1034_TAI_HAP_XX	1034	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1034_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1034_TAI_NEU_XX	1034	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1034_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1034_TAI_SAD_XX	1034	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1034_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1034_TIE_ANG_XX	1034	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1034_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1034_TIE_HAP_XX	1034	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1034_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1034_TIE_NEU_XX	1034	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1034_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1034_TIE_SAD_XX	1034	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1034_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1034_TSI_ANG_XX	1034	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1034_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1034_TSI_HAP_XX	1034	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1034_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1034_TSI_NEU_XX	1034	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1034_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1034_TSI_SAD_XX	1034	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1034_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1034_WSI_ANG_XX	1034	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1034_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1034_WSI_HAP_XX	1034	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1034_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1034_WSI_NEU_XX	1034	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1034_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1034_WSI_SAD_XX	1034	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1034_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1043_DFA_ANG_XX	1043	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1043_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1043_DFA_HAP_XX	1043	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1043_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1043_DFA_NEU_XX	1043	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1043_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1043_DFA_SAD_XX	1043	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1043_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1043_IOM_ANG_XX	1043	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1043_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1043_IOM_HAP_XX	1043	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1043_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1043_IOM_NEU_XX	1043	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1043_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1043_IOM_SAD_XX	1043	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1043_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1043_ITH_ANG_XX	1043	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1043_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1043_ITH_HAP_XX	1043	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1043_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1043_ITH_NEU_XX	1043	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1043_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1043_ITH_SAD_XX	1043	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1043_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1043_ITS_ANG_XX	1043	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1043_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1043_ITS_HAP_XX	1043	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1043_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1043_ITS_NEU_XX	1043	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1043_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1043_ITS_SAD_XX	1043	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1043_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1043_IWL_ANG_XX	1043	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1043_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1043_IWL_HAP_XX	1043	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1043_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1043_IWL_NEU_XX	1043	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1043_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1043_IWL_SAD_XX	1043	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1043_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1043_IWW_ANG_XX	1043	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1043_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1043_IWW_HAP_XX	1043	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1043_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1043_IWW_NEU_XX	1043	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1043_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1043_IWW_SAD_XX	1043	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1043_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1043_MTI_ANG_XX	1043	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1043_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1043_MTI_HAP_XX	1043	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1043_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1043_MTI_NEU_XX	1043	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1043_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1043_MTI_SAD_XX	1043	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1043_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1043_TAI_ANG_XX	1043	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1043_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1043_TAI_HAP_XX	1043	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1043_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1043_TAI_NEU_XX	1043	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1043_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1043_TAI_SAD_XX	1043	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1043_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1043_TIE_ANG_XX	1043	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1043_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1043_TIE_HAP_XX	1043	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1043_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1043_TIE_NEU_XX	1043	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1043_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1043_TIE_SAD_XX	1043	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1043_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1043_TSI_ANG_XX	1043	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1043_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1043_TSI_HAP_XX	1043	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1043_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1043_TSI_NEU_XX	1043	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1043_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1043_TSI_SAD_XX	1043	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1043_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1043_WSI_ANG_XX	1043	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1043_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1043_WSI_HAP_XX	1043	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1043_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1043_WSI_NEU_XX	1043	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1043_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1043_WSI_SAD_XX	1043	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1043_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1047_DFA_ANG_XX	1047	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1047_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1047_DFA_HAP_XX	1047	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1047_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1047_DFA_NEU_XX	1047	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1047_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1047_DFA_SAD_XX	1047	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1047_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1047_IOM_ANG_XX	1047	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1047_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1047_IOM_HAP_XX	1047	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1047_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1047_IOM_NEU_XX	1047	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1047_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1047_IOM_SAD_XX	1047	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1047_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1047_ITH_ANG_XX	1047	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1047_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1047_ITH_HAP_XX	1047	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1047_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1047_ITH_NEU_XX	1047	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1047_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1047_ITH_SAD_XX	1047	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1047_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1047_ITS_ANG_XX	1047	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1047_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1047_ITS_HAP_XX	1047	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1047_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1047_ITS_NEU_XX	1047	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1047_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1047_ITS_SAD_XX	1047	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1047_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1047_IWL_ANG_XX	1047	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1047_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1047_IWL_HAP_XX	1047	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1047_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1047_IWL_NEU_XX	1047	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1047_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1047_IWL_SAD_XX	1047	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1047_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1047_IWW_ANG_XX	1047	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1047_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1047_IWW_HAP_XX	1047	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1047_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1047_IWW_NEU_XX	1047	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1047_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1047_IWW_SAD_XX	1047	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1047_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1047_MTI_ANG_XX	1047	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1047_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1047_MTI_HAP_XX	1047	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1047_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1047_MTI_NEU_XX	1047	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1047_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1047_MTI_SAD_XX	1047	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1047_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1047_TAI_ANG_XX	1047	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1047_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1047_TAI_HAP_XX	1047	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1047_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1047_TAI_NEU_XX	1047	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1047_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1047_TAI_SAD_XX	1047	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1047_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1047_TIE_ANG_XX	1047	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1047_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1047_TIE_HAP_XX	1047	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1047_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1047_TIE_NEU_XX	1047	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1047_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1047_TIE_SAD_XX	1047	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1047_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1047_TSI_ANG_XX	1047	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1047_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1047_TSI_HAP_XX	1047	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1047_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1047_TSI_NEU_XX	1047	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1047_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1047_TSI_SAD_XX	1047	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1047_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1047_WSI_ANG_XX	1047	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1047_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1047_WSI_HAP_XX	1047	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1047_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1047_WSI_NEU_XX	1047	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1047_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1047_WSI_SAD_XX	1047	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1047_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1050_DFA_ANG_XX	1050	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1050_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1050_DFA_HAP_XX	1050	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1050_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1050_DFA_NEU_XX	1050	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1050_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1050_DFA_SAD_XX	1050	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1050_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1050_IOM_ANG_XX	1050	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1050_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1050_IOM_HAP_XX	1050	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1050_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1050_IOM_NEU_XX	1050	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1050_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1050_IOM_SAD_XX	1050	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1050_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1050_ITH_ANG_XX	1050	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1050_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1050_ITH_HAP_XX	1050	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1050_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1050_ITH_NEU_XX	1050	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1050_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1050_ITH_SAD_XX	1050	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1050_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1050_ITS_ANG_XX	1050	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1050_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1050_ITS_HAP_XX	1050	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1050_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1050_ITS_NEU_XX	1050	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1050_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1050_ITS_SAD_XX	1050	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1050_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1050_IWL_ANG_XX	1050	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1050_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1050_IWL_HAP_XX	1050	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1050_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1050_IWL_NEU_XX	1050	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1050_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1050_IWL_SAD_XX	1050	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1050_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1050_IWW_ANG_XX	1050	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1050_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1050_IWW_HAP_XX	1050	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1050_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1050_IWW_NEU_XX	1050	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1050_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1050_IWW_SAD_XX	1050	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1050_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1050_MTI_ANG_XX	1050	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1050_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1050_MTI_HAP_XX	1050	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1050_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1050_MTI_NEU_XX	1050	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1050_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1050_MTI_SAD_XX	1050	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1050_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1050_TAI_ANG_XX	1050	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1050_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1050_TAI_HAP_XX	1050	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1050_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1050_TAI_NEU_XX	1050	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1050_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1050_TAI_SAD_XX	1050	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1050_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1050_TIE_ANG_XX	1050	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1050_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1050_TIE_HAP_XX	1050	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1050_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1050_TIE_NEU_XX	1050	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1050_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1050_TIE_SAD_XX	1050	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1050_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1050_TSI_ANG_XX	1050	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1050_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1050_TSI_HAP_XX	1050	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1050_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1050_TSI_NEU_XX	1050	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1050_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1050_TSI_SAD_XX	1050	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1050_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1050_WSI_ANG_XX	1050	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1050_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1050_WSI_HAP_XX	1050	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1050_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1050_WSI_NEU_XX	1050	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1050_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1050_WSI_SAD_XX	1050	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1050_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1052_DFA_ANG_XX	1052	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1052_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1052_DFA_HAP_XX	1052	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1052_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1052_DFA_NEU_XX	1052	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1052_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1052_DFA_SAD_XX	1052	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1052_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1052_IOM_ANG_XX	1052	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1052_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1052_IOM_HAP_XX	1052	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1052_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1052_IOM_NEU_XX	1052	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1052_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1052_IOM_SAD_XX	1052	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1052_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1052_ITH_ANG_XX	1052	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1052_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1052_ITH_HAP_XX	1052	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1052_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1052_ITH_NEU_XX	1052	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1052_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1052_ITH_SAD_XX	1052	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1052_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1052_ITS_ANG_XX	1052	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1052_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1052_ITS_HAP_XX	1052	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1052_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1052_ITS_NEU_XX	1052	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1052_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1052_ITS_SAD_XX	1052	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1052_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1052_IWL_ANG_XX	1052	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1052_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1052_IWL_HAP_XX	1052	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1052_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1052_IWL_NEU_XX	1052	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1052_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1052_IWL_SAD_XX	1052	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1052_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1052_IWW_ANG_XX	1052	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1052_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1052_IWW_HAP_XX	1052	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1052_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1052_IWW_NEU_XX	1052	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1052_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1052_IWW_SAD_XX	1052	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1052_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1052_MTI_ANG_XX	1052	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1052_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1052_MTI_HAP_XX	1052	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1052_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1052_MTI_NEU_XX	1052	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1052_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1052_MTI_SAD_XX	1052	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1052_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1052_TAI_ANG_XX	1052	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1052_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1052_TAI_HAP_XX	1052	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1052_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1052_TAI_NEU_XX	1052	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1052_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1052_TAI_SAD_XX	1052	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1052_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1052_TIE_ANG_XX	1052	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1052_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1052_TIE_HAP_XX	1052	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1052_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1052_TIE_NEU_XX	1052	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1052_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1052_TIE_SAD_XX	1052	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1052_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1052_TSI_ANG_XX	1052	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1052_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1052_TSI_HAP_XX	1052	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1052_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1052_TSI_NEU_XX	1052	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1052_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1052_TSI_SAD_XX	1052	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1052_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1052_WSI_ANG_XX	1052	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1052_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1052_WSI_HAP_XX	1052	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1052_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1052_WSI_NEU_XX	1052	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1052_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1052_WSI_SAD_XX	1052	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1052_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1056_DFA_ANG_XX	1056	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1056_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1056_DFA_HAP_XX	1056	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1056_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1056_DFA_NEU_XX	1056	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1056_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1056_DFA_SAD_XX	1056	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1056_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1056_IOM_ANG_XX	1056	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1056_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1056_IOM_HAP_XX	1056	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1056_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1056_IOM_NEU_XX	1056	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1056_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1056_IOM_SAD_XX	1056	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1056_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1056_ITH_ANG_XX	1056	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1056_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1056_ITH_HAP_XX	1056	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1056_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1056_ITH_NEU_XX	1056	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1056_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1056_ITH_SAD_XX	1056	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1056_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1056_ITS_ANG_XX	1056	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1056_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1056_ITS_HAP_XX	1056	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1056_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1056_ITS_NEU_XX	1056	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1056_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1056_ITS_SAD_XX	1056	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1056_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1056_IWL_ANG_XX	1056	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1056_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1056_IWL_HAP_XX	1056	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1056_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1056_IWL_NEU_XX	1056	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1056_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1056_IWL_SAD_XX	1056	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1056_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1056_IWW_ANG_XX	1056	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1056_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1056_IWW_HAP_XX	1056	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1056_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1056_IWW_NEU_XX	1056	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1056_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1056_IWW_SAD_XX	1056	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1056_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1056_MTI_ANG_XX	1056	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1056_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1056_MTI_HAP_XX	1056	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1056_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1056_MTI_NEU_XX	1056	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1056_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1056_MTI_SAD_XX	1056	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1056_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1056_TAI_ANG_XX	1056	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1056_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1056_TAI_HAP_XX	1056	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1056_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1056_TAI_NEU_XX	1056	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1056_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1056_TAI_SAD_XX	1056	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1056_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1056_TIE_ANG_XX	1056	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1056_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1056_TIE_HAP_XX	1056	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1056_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1056_TIE_NEU_XX	1056	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1056_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1056_TIE_SAD_XX	1056	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1056_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1056_TSI_ANG_XX	1056	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1056_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1056_TSI_HAP_XX	1056	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1056_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1056_TSI_NEU_XX	1056	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1056_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1056_TSI_SAD_XX	1056	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1056_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1056_WSI_ANG_XX	1056	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1056_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1056_WSI_HAP_XX	1056	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1056_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1056_WSI_NEU_XX	1056	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1056_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1056_WSI_SAD_XX	1056	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1056_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1058_DFA_ANG_XX	1058	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1058_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1058_DFA_HAP_XX	1058	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1058_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1058_DFA_NEU_XX	1058	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1058_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1058_DFA_SAD_XX	1058	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1058_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1058_IOM_ANG_XX	1058	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1058_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1058_IOM_HAP_XX	1058	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1058_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1058_IOM_NEU_XX	1058	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1058_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1058_IOM_SAD_XX	1058	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1058_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1058_ITH_ANG_XX	1058	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1058_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1058_ITH_HAP_XX	1058	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1058_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1058_ITH_NEU_XX	1058	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1058_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1058_ITH_SAD_XX	1058	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1058_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1058_ITS_ANG_XX	1058	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1058_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1058_ITS_HAP_XX	1058	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1058_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1058_ITS_NEU_XX	1058	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1058_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1058_ITS_SAD_XX	1058	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1058_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1058_IWL_ANG_XX	1058	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1058_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1058_IWL_HAP_XX	1058	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1058_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1058_IWL_NEU_XX	1058	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1058_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1058_IWL_SAD_XX	1058	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1058_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1058_IWW_ANG_XX	1058	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1058_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1058_IWW_HAP_XX	1058	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1058_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1058_IWW_NEU_XX	1058	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1058_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1058_IWW_SAD_XX	1058	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1058_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1058_MTI_ANG_XX	1058	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1058_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1058_MTI_HAP_XX	1058	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1058_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1058_MTI_NEU_XX	1058	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1058_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1058_MTI_SAD_XX	1058	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1058_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1058_TAI_ANG_XX	1058	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1058_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1058_TAI_HAP_XX	1058	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1058_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1058_TAI_NEU_XX	1058	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1058_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1058_TAI_SAD_XX	1058	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1058_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1058_TIE_ANG_XX	1058	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1058_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1058_TIE_HAP_XX	1058	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1058_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1058_TIE_NEU_XX	1058	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1058_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1058_TIE_SAD_XX	1058	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1058_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1058_TSI_ANG_XX	1058	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1058_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1058_TSI_HAP_XX	1058	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1058_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1058_TSI_NEU_XX	1058	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1058_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1058_TSI_SAD_XX	1058	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1058_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1058_WSI_ANG_XX	1058	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1058_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1058_WSI_HAP_XX	1058	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1058_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1058_WSI_NEU_XX	1058	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1058_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1058_WSI_SAD_XX	1058	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1058_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1061_DFA_ANG_XX	1061	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1061_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1061_DFA_HAP_XX	1061	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1061_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1061_DFA_NEU_XX	1061	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1061_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1061_DFA_SAD_XX	1061	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1061_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1061_IOM_ANG_XX	1061	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1061_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1061_IOM_HAP_XX	1061	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1061_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1061_IOM_NEU_XX	1061	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1061_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1061_IOM_SAD_XX	1061	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1061_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1061_ITH_ANG_XX	1061	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1061_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1061_ITH_HAP_XX	1061	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1061_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1061_ITH_NEU_XX	1061	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1061_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1061_ITH_SAD_XX	1061	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1061_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1061_ITS_ANG_XX	1061	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1061_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1061_ITS_HAP_XX	1061	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1061_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1061_ITS_NEU_XX	1061	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1061_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1061_ITS_SAD_XX	1061	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1061_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1061_IWL_ANG_XX	1061	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1061_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1061_IWL_HAP_XX	1061	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1061_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1061_IWL_NEU_XX	1061	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1061_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1061_IWL_SAD_XX	1061	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1061_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1061_IWW_ANG_XX	1061	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1061_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1061_IWW_HAP_XX	1061	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1061_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1061_IWW_NEU_XX	1061	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1061_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1061_IWW_SAD_XX	1061	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1061_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1061_MTI_ANG_XX	1061	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1061_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1061_MTI_HAP_XX	1061	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1061_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1061_MTI_NEU_XX	1061	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1061_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1061_MTI_SAD_XX	1061	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1061_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1061_TAI_ANG_XX	1061	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1061_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1061_TAI_HAP_XX	1061	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1061_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1061_TAI_NEU_XX	1061	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1061_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1061_TAI_SAD_XX	1061	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1061_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1061_TIE_ANG_XX	1061	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1061_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1061_TIE_HAP_XX	1061	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1061_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1061_TIE_NEU_XX	1061	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1061_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1061_TIE_SAD_XX	1061	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1061_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1061_TSI_ANG_XX	1061	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1061_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1061_TSI_HAP_XX	1061	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1061_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1061_TSI_NEU_XX	1061	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1061_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1061_TSI_SAD_XX	1061	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1061_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1061_WSI_ANG_XX	1061	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1061_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1061_WSI_HAP_XX	1061	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1061_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1061_WSI_NEU_XX	1061	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1061_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1061_WSI_SAD_XX	1061	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1061_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1062_DFA_ANG_XX	1062	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1062_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1062_DFA_HAP_XX	1062	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1062_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1062_DFA_NEU_XX	1062	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1062_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1062_DFA_SAD_XX	1062	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1062_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1062_IOM_ANG_XX	1062	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1062_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1062_IOM_HAP_XX	1062	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1062_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1062_IOM_NEU_XX	1062	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1062_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1062_IOM_SAD_XX	1062	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1062_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1062_ITH_ANG_XX	1062	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1062_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1062_ITH_HAP_XX	1062	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1062_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1062_ITH_NEU_XX	1062	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1062_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1062_ITH_SAD_XX	1062	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1062_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1062_ITS_ANG_XX	1062	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1062_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1062_ITS_HAP_XX	1062	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1062_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1062_ITS_NEU_XX	1062	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1062_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1062_ITS_SAD_XX	1062	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1062_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1062_IWL_ANG_XX	1062	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1062_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1062_IWL_HAP_XX	1062	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1062_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1062_IWL_NEU_XX	1062	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1062_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1062_IWL_SAD_XX	1062	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1062_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1062_IWW_ANG_XX	1062	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1062_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1062_IWW_HAP_XX	1062	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1062_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1062_IWW_NEU_XX	1062	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1062_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1062_IWW_SAD_XX	1062	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1062_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1062_MTI_ANG_XX	1062	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1062_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1062_MTI_HAP_XX	1062	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1062_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1062_MTI_NEU_XX	1062	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1062_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1062_MTI_SAD_XX	1062	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1062_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1062_TAI_ANG_XX	1062	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1062_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1062_TAI_HAP_XX	1062	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1062_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1062_TAI_NEU_XX	1062	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1062_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1062_TAI_SAD_XX	1062	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1062_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1062_TIE_ANG_XX	1062	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1062_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1062_TIE_HAP_XX	1062	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1062_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1062_TIE_NEU_XX	1062	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1062_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1062_TIE_SAD_XX	1062	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1062_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1062_TSI_ANG_XX	1062	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1062_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1062_TSI_HAP_XX	1062	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1062_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1062_TSI_NEU_XX	1062	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1062_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1062_TSI_SAD_XX	1062	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1062_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1062_WSI_ANG_XX	1062	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1062_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1062_WSI_HAP_XX	1062	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1062_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1062_WSI_NEU_XX	1062	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1062_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1062_WSI_SAD_XX	1062	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1062_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1066_DFA_ANG_XX	1066	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1066_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1066_DFA_HAP_XX	1066	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1066_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1066_DFA_NEU_XX	1066	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1066_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1066_DFA_SAD_XX	1066	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1066_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1066_IOM_ANG_XX	1066	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1066_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1066_IOM_HAP_XX	1066	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1066_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1066_IOM_NEU_XX	1066	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1066_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1066_IOM_SAD_XX	1066	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1066_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1066_ITH_ANG_XX	1066	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1066_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1066_ITH_HAP_XX	1066	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1066_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1066_ITH_NEU_XX	1066	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1066_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1066_ITH_SAD_XX	1066	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1066_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1066_ITS_ANG_XX	1066	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1066_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1066_ITS_HAP_XX	1066	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1066_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1066_ITS_NEU_XX	1066	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1066_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1066_ITS_SAD_XX	1066	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1066_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1066_IWL_ANG_XX	1066	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1066_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1066_IWL_HAP_XX	1066	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1066_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1066_IWL_NEU_XX	1066	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1066_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1066_IWL_SAD_XX	1066	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1066_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1066_IWW_ANG_XX	1066	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1066_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1066_IWW_HAP_XX	1066	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1066_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1066_IWW_NEU_XX	1066	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1066_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1066_IWW_SAD_XX	1066	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1066_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1066_MTI_ANG_XX	1066	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1066_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1066_MTI_HAP_XX	1066	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1066_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1066_MTI_NEU_XX	1066	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1066_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1066_MTI_SAD_XX	1066	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1066_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1066_TAI_ANG_XX	1066	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1066_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1066_TAI_HAP_XX	1066	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1066_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1066_TAI_NEU_XX	1066	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1066_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1066_TAI_SAD_XX	1066	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1066_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1066_TIE_ANG_XX	1066	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1066_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1066_TIE_HAP_XX	1066	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1066_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1066_TIE_NEU_XX	1066	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1066_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1066_TIE_SAD_XX	1066	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1066_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1066_TSI_ANG_XX	1066	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1066_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1066_TSI_HAP_XX	1066	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1066_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1066_TSI_NEU_XX	1066	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1066_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1066_TSI_SAD_XX	1066	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1066_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1066_WSI_ANG_XX	1066	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1066_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1066_WSI_HAP_XX	1066	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1066_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1066_WSI_NEU_XX	1066	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1066_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1066_WSI_SAD_XX	1066	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1066_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1069_DFA_ANG_XX	1069	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1069_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1069_DFA_HAP_XX	1069	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1069_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1069_DFA_NEU_XX	1069	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1069_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1069_DFA_SAD_XX	1069	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1069_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1069_IOM_ANG_XX	1069	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1069_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1069_IOM_HAP_XX	1069	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1069_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1069_IOM_NEU_XX	1069	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1069_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1069_IOM_SAD_XX	1069	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1069_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1069_ITH_ANG_XX	1069	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1069_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1069_ITH_HAP_XX	1069	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1069_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1069_ITH_NEU_XX	1069	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1069_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1069_ITH_SAD_XX	1069	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1069_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1069_ITS_ANG_XX	1069	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1069_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1069_ITS_HAP_XX	1069	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1069_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1069_ITS_NEU_XX	1069	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1069_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1069_ITS_SAD_XX	1069	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1069_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1069_IWL_ANG_XX	1069	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1069_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1069_IWL_HAP_XX	1069	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1069_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1069_IWL_NEU_XX	1069	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1069_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1069_IWL_SAD_XX	1069	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1069_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1069_IWW_ANG_XX	1069	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1069_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1069_IWW_HAP_XX	1069	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1069_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1069_IWW_NEU_XX	1069	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1069_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1069_IWW_SAD_XX	1069	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1069_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1069_MTI_ANG_XX	1069	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1069_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1069_MTI_HAP_XX	1069	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1069_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1069_MTI_NEU_XX	1069	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1069_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1069_MTI_SAD_XX	1069	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1069_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1069_TAI_ANG_XX	1069	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1069_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1069_TAI_HAP_XX	1069	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1069_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1069_TAI_NEU_XX	1069	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1069_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1069_TAI_SAD_XX	1069	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1069_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1069_TIE_ANG_XX	1069	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1069_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1069_TIE_HAP_XX	1069	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1069_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1069_TIE_NEU_XX	1069	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1069_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1069_TIE_SAD_XX	1069	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1069_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1069_TSI_ANG_XX	1069	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1069_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1069_TSI_HAP_XX	1069	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1069_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1069_TSI_NEU_XX	1069	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1069_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1069_TSI_SAD_XX	1069	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1069_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1069_WSI_ANG_XX	1069	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1069_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1069_WSI_HAP_XX	1069	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1069_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1069_WSI_NEU_XX	1069	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1069_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1069_WSI_SAD_XX	1069	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1069_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1072_DFA_ANG_XX	1072	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1072_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1072_DFA_HAP_XX	1072	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1072_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1072_DFA_NEU_XX	1072	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1072_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1072_DFA_SAD_XX	1072	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1072_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1072_IOM_ANG_XX	1072	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1072_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1072_IOM_HAP_XX	1072	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1072_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1072_IOM_NEU_XX	1072	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1072_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1072_IOM_SAD_XX	1072	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1072_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1072_ITH_ANG_XX	1072	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1072_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1072_ITH_HAP_XX	1072	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1072_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1072_ITH_NEU_XX	1072	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1072_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1072_ITH_SAD_XX	1072	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1072_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1072_ITS_ANG_XX	1072	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1072_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1072_ITS_HAP_XX	1072	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1072_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1072_ITS_NEU_XX	1072	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1072_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1072_ITS_SAD_XX	1072	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1072_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1072_IWL_ANG_XX	1072	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1072_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1072_IWL_HAP_XX	1072	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1072_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1072_IWL_NEU_XX	1072	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1072_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1072_IWL_SAD_XX	1072	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1072_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1072_IWW_ANG_XX	1072	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1072_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1072_IWW_HAP_XX	1072	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1072_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1072_IWW_NEU_XX	1072	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1072_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1072_IWW_SAD_XX	1072	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1072_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1072_MTI_ANG_XX	1072	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1072_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1072_MTI_HAP_XX	1072	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1072_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1072_MTI_NEU_XX	1072	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1072_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1072_MTI_SAD_XX	1072	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1072_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1072_TAI_ANG_XX	1072	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1072_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1072_TAI_HAP_XX	1072	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1072_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1072_TAI_NEU_XX	1072	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1072_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1072_TAI_SAD_XX	1072	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1072_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1072_TIE_ANG_XX	1072	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1072_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1072_TIE_HAP_XX	1072	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1072_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1072_TIE_NEU_XX	1072	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1072_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1072_TIE_SAD_XX	1072	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1072_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1072_TSI_ANG_XX	1072	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1072_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1072_TSI_HAP_XX	1072	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1072_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1072_TSI_NEU_XX	1072	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1072_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1072_TSI_SAD_XX	1072	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1072_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1072_WSI_ANG_XX	1072	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1072_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1072_WSI_HAP_XX	1072	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1072_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1072_WSI_NEU_XX	1072	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1072_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1072_WSI_SAD_XX	1072	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1072_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1082_DFA_ANG_XX	1082	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1082_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1082_DFA_HAP_XX	1082	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1082_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1082_DFA_NEU_XX	1082	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1082_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1082_DFA_SAD_XX	1082	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1082_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1082_IOM_ANG_XX	1082	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1082_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1082_IOM_HAP_XX	1082	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1082_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1082_IOM_NEU_XX	1082	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1082_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1082_IOM_SAD_XX	1082	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1082_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1082_ITH_ANG_XX	1082	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1082_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1082_ITH_HAP_XX	1082	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1082_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1082_ITH_NEU_XX	1082	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1082_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1082_ITH_SAD_XX	1082	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1082_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1082_ITS_ANG_XX	1082	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1082_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1082_ITS_HAP_XX	1082	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1082_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1082_ITS_NEU_XX	1082	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1082_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1082_ITS_SAD_XX	1082	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1082_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1082_IWL_ANG_XX	1082	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1082_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1082_IWL_HAP_XX	1082	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1082_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1082_IWL_NEU_XX	1082	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1082_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1082_IWL_SAD_XX	1082	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1082_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1082_IWW_ANG_XX	1082	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1082_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1082_IWW_HAP_XX	1082	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1082_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1082_IWW_NEU_XX	1082	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1082_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1082_IWW_SAD_XX	1082	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1082_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1082_MTI_ANG_XX	1082	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1082_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1082_MTI_HAP_XX	1082	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1082_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1082_MTI_NEU_XX	1082	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1082_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1082_MTI_SAD_XX	1082	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1082_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1082_TAI_ANG_XX	1082	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1082_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1082_TAI_HAP_XX	1082	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1082_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1082_TAI_NEU_XX	1082	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1082_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1082_TAI_SAD_XX	1082	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1082_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1082_TIE_ANG_XX	1082	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1082_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1082_TIE_HAP_XX	1082	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1082_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1082_TIE_NEU_XX	1082	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1082_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1082_TIE_SAD_XX	1082	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1082_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1082_TSI_ANG_XX	1082	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1082_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1082_TSI_HAP_XX	1082	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1082_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1082_TSI_NEU_XX	1082	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1082_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1082_TSI_SAD_XX	1082	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1082_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1082_WSI_ANG_XX	1082	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1082_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1082_WSI_HAP_XX	1082	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1082_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1082_WSI_NEU_XX	1082	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1082_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1082_WSI_SAD_XX	1082	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1082_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1083_DFA_ANG_XX	1083	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1083_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1083_DFA_HAP_XX	1083	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1083_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1083_DFA_NEU_XX	1083	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1083_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1083_DFA_SAD_XX	1083	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1083_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1083_IOM_ANG_XX	1083	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1083_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1083_IOM_HAP_XX	1083	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1083_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1083_IOM_NEU_XX	1083	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1083_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1083_IOM_SAD_XX	1083	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1083_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1083_ITH_ANG_XX	1083	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1083_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1083_ITH_HAP_XX	1083	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1083_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1083_ITH_NEU_XX	1083	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1083_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1083_ITH_SAD_XX	1083	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1083_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1083_ITS_ANG_XX	1083	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1083_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1083_ITS_HAP_XX	1083	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1083_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1083_ITS_NEU_XX	1083	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1083_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1083_ITS_SAD_XX	1083	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1083_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1083_IWL_ANG_XX	1083	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1083_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1083_IWL_HAP_XX	1083	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1083_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1083_IWL_NEU_XX	1083	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1083_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1083_IWL_SAD_XX	1083	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1083_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1083_IWW_ANG_XX	1083	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1083_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1083_IWW_HAP_XX	1083	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1083_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1083_IWW_NEU_XX	1083	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1083_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1083_IWW_SAD_XX	1083	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1083_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1083_MTI_ANG_XX	1083	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1083_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1083_MTI_HAP_XX	1083	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1083_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1083_MTI_NEU_XX	1083	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1083_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1083_MTI_SAD_XX	1083	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1083_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1083_TAI_ANG_XX	1083	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1083_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1083_TAI_HAP_XX	1083	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1083_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1083_TAI_NEU_XX	1083	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1083_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1083_TAI_SAD_XX	1083	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1083_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1083_TIE_ANG_XX	1083	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1083_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1083_TIE_HAP_XX	1083	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1083_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1083_TIE_NEU_XX	1083	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1083_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1083_TIE_SAD_XX	1083	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1083_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1083_TSI_ANG_XX	1083	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1083_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1083_TSI_HAP_XX	1083	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1083_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1083_TSI_NEU_XX	1083	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1083_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1083_TSI_SAD_XX	1083	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1083_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1083_WSI_ANG_XX	1083	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1083_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1083_WSI_HAP_XX	1083	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1083_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1083_WSI_NEU_XX	1083	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1083_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1083_WSI_SAD_XX	1083	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1083_WSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1084_DFA_ANG_XX	1084	Don't forget a jacket.	DFA	1	Angry	XX	Data/CREMA-D/AudioWAV/1084_DFA_ANG_XX.wav	CREMA-D AudioWAV filename
+1084_DFA_HAP_XX	1084	Don't forget a jacket.	DFA	1	Happy	XX	Data/CREMA-D/AudioWAV/1084_DFA_HAP_XX.wav	CREMA-D AudioWAV filename
+1084_DFA_NEU_XX	1084	Don't forget a jacket.	DFA	1	Neutral	XX	Data/CREMA-D/AudioWAV/1084_DFA_NEU_XX.wav	CREMA-D AudioWAV filename
+1084_DFA_SAD_XX	1084	Don't forget a jacket.	DFA	1	Sad	XX	Data/CREMA-D/AudioWAV/1084_DFA_SAD_XX.wav	CREMA-D AudioWAV filename
+1084_IOM_ANG_XX	1084	I'm on my way to the meeting.	IOM	2	Angry	XX	Data/CREMA-D/AudioWAV/1084_IOM_ANG_XX.wav	CREMA-D AudioWAV filename
+1084_IOM_HAP_XX	1084	I'm on my way to the meeting.	IOM	2	Happy	XX	Data/CREMA-D/AudioWAV/1084_IOM_HAP_XX.wav	CREMA-D AudioWAV filename
+1084_IOM_NEU_XX	1084	I'm on my way to the meeting.	IOM	2	Neutral	XX	Data/CREMA-D/AudioWAV/1084_IOM_NEU_XX.wav	CREMA-D AudioWAV filename
+1084_IOM_SAD_XX	1084	I'm on my way to the meeting.	IOM	2	Sad	XX	Data/CREMA-D/AudioWAV/1084_IOM_SAD_XX.wav	CREMA-D AudioWAV filename
+1084_ITH_ANG_XX	1084	I think I have a doctor's appointment.	ITH	3	Angry	XX	Data/CREMA-D/AudioWAV/1084_ITH_ANG_XX.wav	CREMA-D AudioWAV filename
+1084_ITH_HAP_XX	1084	I think I have a doctor's appointment.	ITH	3	Happy	XX	Data/CREMA-D/AudioWAV/1084_ITH_HAP_XX.wav	CREMA-D AudioWAV filename
+1084_ITH_NEU_XX	1084	I think I have a doctor's appointment.	ITH	3	Neutral	XX	Data/CREMA-D/AudioWAV/1084_ITH_NEU_XX.wav	CREMA-D AudioWAV filename
+1084_ITH_SAD_XX	1084	I think I have a doctor's appointment.	ITH	3	Sad	XX	Data/CREMA-D/AudioWAV/1084_ITH_SAD_XX.wav	CREMA-D AudioWAV filename
+1084_ITS_ANG_XX	1084	I think I've seen this before.	ITS	4	Angry	XX	Data/CREMA-D/AudioWAV/1084_ITS_ANG_XX.wav	CREMA-D AudioWAV filename
+1084_ITS_HAP_XX	1084	I think I've seen this before.	ITS	4	Happy	XX	Data/CREMA-D/AudioWAV/1084_ITS_HAP_XX.wav	CREMA-D AudioWAV filename
+1084_ITS_NEU_XX	1084	I think I've seen this before.	ITS	4	Neutral	XX	Data/CREMA-D/AudioWAV/1084_ITS_NEU_XX.wav	CREMA-D AudioWAV filename
+1084_ITS_SAD_XX	1084	I think I've seen this before.	ITS	4	Sad	XX	Data/CREMA-D/AudioWAV/1084_ITS_SAD_XX.wav	CREMA-D AudioWAV filename
+1084_IWL_ANG_XX	1084	I would like a new alarm clock.	IWL	5	Angry	XX	Data/CREMA-D/AudioWAV/1084_IWL_ANG_XX.wav	CREMA-D AudioWAV filename
+1084_IWL_HAP_XX	1084	I would like a new alarm clock.	IWL	5	Happy	XX	Data/CREMA-D/AudioWAV/1084_IWL_HAP_XX.wav	CREMA-D AudioWAV filename
+1084_IWL_NEU_XX	1084	I would like a new alarm clock.	IWL	5	Neutral	XX	Data/CREMA-D/AudioWAV/1084_IWL_NEU_XX.wav	CREMA-D AudioWAV filename
+1084_IWL_SAD_XX	1084	I would like a new alarm clock.	IWL	5	Sad	XX	Data/CREMA-D/AudioWAV/1084_IWL_SAD_XX.wav	CREMA-D AudioWAV filename
+1084_IWW_ANG_XX	1084	I wonder what this is about.	IWW	6	Angry	XX	Data/CREMA-D/AudioWAV/1084_IWW_ANG_XX.wav	CREMA-D AudioWAV filename
+1084_IWW_HAP_XX	1084	I wonder what this is about.	IWW	6	Happy	XX	Data/CREMA-D/AudioWAV/1084_IWW_HAP_XX.wav	CREMA-D AudioWAV filename
+1084_IWW_NEU_XX	1084	I wonder what this is about.	IWW	6	Neutral	XX	Data/CREMA-D/AudioWAV/1084_IWW_NEU_XX.wav	CREMA-D AudioWAV filename
+1084_IWW_SAD_XX	1084	I wonder what this is about.	IWW	6	Sad	XX	Data/CREMA-D/AudioWAV/1084_IWW_SAD_XX.wav	CREMA-D AudioWAV filename
+1084_MTI_ANG_XX	1084	Maybe tomorrow it will be cold.	MTI	7	Angry	XX	Data/CREMA-D/AudioWAV/1084_MTI_ANG_XX.wav	CREMA-D AudioWAV filename
+1084_MTI_HAP_XX	1084	Maybe tomorrow it will be cold.	MTI	7	Happy	XX	Data/CREMA-D/AudioWAV/1084_MTI_HAP_XX.wav	CREMA-D AudioWAV filename
+1084_MTI_NEU_XX	1084	Maybe tomorrow it will be cold.	MTI	7	Neutral	XX	Data/CREMA-D/AudioWAV/1084_MTI_NEU_XX.wav	CREMA-D AudioWAV filename
+1084_MTI_SAD_XX	1084	Maybe tomorrow it will be cold.	MTI	7	Sad	XX	Data/CREMA-D/AudioWAV/1084_MTI_SAD_XX.wav	CREMA-D AudioWAV filename
+1084_TAI_ANG_XX	1084	The airplane is almost full.	TAI	8	Angry	XX	Data/CREMA-D/AudioWAV/1084_TAI_ANG_XX.wav	CREMA-D AudioWAV filename
+1084_TAI_HAP_XX	1084	The airplane is almost full.	TAI	8	Happy	XX	Data/CREMA-D/AudioWAV/1084_TAI_HAP_XX.wav	CREMA-D AudioWAV filename
+1084_TAI_NEU_XX	1084	The airplane is almost full.	TAI	8	Neutral	XX	Data/CREMA-D/AudioWAV/1084_TAI_NEU_XX.wav	CREMA-D AudioWAV filename
+1084_TAI_SAD_XX	1084	The airplane is almost full.	TAI	8	Sad	XX	Data/CREMA-D/AudioWAV/1084_TAI_SAD_XX.wav	CREMA-D AudioWAV filename
+1084_TIE_ANG_XX	1084	That is exactly what happened.	TIE	9	Angry	XX	Data/CREMA-D/AudioWAV/1084_TIE_ANG_XX.wav	CREMA-D AudioWAV filename
+1084_TIE_HAP_XX	1084	That is exactly what happened.	TIE	9	Happy	XX	Data/CREMA-D/AudioWAV/1084_TIE_HAP_XX.wav	CREMA-D AudioWAV filename
+1084_TIE_NEU_XX	1084	That is exactly what happened.	TIE	9	Neutral	XX	Data/CREMA-D/AudioWAV/1084_TIE_NEU_XX.wav	CREMA-D AudioWAV filename
+1084_TIE_SAD_XX	1084	That is exactly what happened.	TIE	9	Sad	XX	Data/CREMA-D/AudioWAV/1084_TIE_SAD_XX.wav	CREMA-D AudioWAV filename
+1084_TSI_ANG_XX	1084	The surface is slick.	TSI	10	Angry	XX	Data/CREMA-D/AudioWAV/1084_TSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1084_TSI_HAP_XX	1084	The surface is slick.	TSI	10	Happy	XX	Data/CREMA-D/AudioWAV/1084_TSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1084_TSI_NEU_XX	1084	The surface is slick.	TSI	10	Neutral	XX	Data/CREMA-D/AudioWAV/1084_TSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1084_TSI_SAD_XX	1084	The surface is slick.	TSI	10	Sad	XX	Data/CREMA-D/AudioWAV/1084_TSI_SAD_XX.wav	CREMA-D AudioWAV filename
+1084_WSI_ANG_XX	1084	We'll stop in a couple of minutes.	WSI	11	Angry	XX	Data/CREMA-D/AudioWAV/1084_WSI_ANG_XX.wav	CREMA-D AudioWAV filename
+1084_WSI_HAP_XX	1084	We'll stop in a couple of minutes.	WSI	11	Happy	XX	Data/CREMA-D/AudioWAV/1084_WSI_HAP_XX.wav	CREMA-D AudioWAV filename
+1084_WSI_NEU_XX	1084	We'll stop in a couple of minutes.	WSI	11	Neutral	XX	Data/CREMA-D/AudioWAV/1084_WSI_NEU_XX.wav	CREMA-D AudioWAV filename
+1084_WSI_SAD_XX	1084	We'll stop in a couple of minutes.	WSI	11	Sad	XX	Data/CREMA-D/AudioWAV/1084_WSI_SAD_XX.wav	CREMA-D AudioWAV filename

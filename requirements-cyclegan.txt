@@ -1,0 +1,9 @@
+# Install in a separate legacy environment; see README.md.
+numpy==1.14.6
+tensorflow==1.8.0
+progressbar2==3.37.1
+librosa==0.6.3
+scikit-learn==0.19.2
+PyWavelets==0.5.2
+pyworld==0.2.8
+scipy==1.1.0

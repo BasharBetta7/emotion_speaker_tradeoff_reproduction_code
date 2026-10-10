@@ -1,0 +1,8 @@
+{
+  "supplement/all-model-curves-with-95ci.csv": "55bb218a4ade83affa4a4ce087a3d55fed82495d70f294724c6788a06ee64b26",
+  "supplement/tradeoff-curves-95ci.csv": "7ba9ea06f33182fe4d85cc0478dd29e5e2c74e542bbc79a2086823ef0ffffb41",
+  "supplement/descriptive-correlations.csv": "e59d0a61dc34bfa05382898fa58acf66989b4afb5cc3af76cb353896db8cc380",
+  "supplement/training-configurations.csv": "fde89e37355de2311ff4c33c985766b41f5e3299a27be0605851bde5d1a7be12",
+  "supplement/listening-clip-means.csv": "0ef1768f4098f4054ca717934daa729bc7d9876680db1949f4852ff7d7bf9997",
+  "supplement/seed-level-curves.csv": "d71dc7423fc876c5f029f9273febdc00ce0da5b70fd156f9db5f33c6b8529185"
+}

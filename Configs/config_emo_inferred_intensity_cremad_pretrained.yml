@@ -1,0 +1,73 @@
+log_dir: "Models/exp4_emo_balanced_holdout_intensity_rank_cremad"
+save_freq: 5
+device: "cuda"
+epochs: 150
+batch_size: 32
+pretrained_model: ""
+load_only_params: false
+finetune: false # Set to true to enable finetuning from the pretrained model. This will unfreeze all model parameters and use the pretrained model as initialization.
+fp16_run: true
+
+train_data: "Data/cremad_train_list_emo_speaker_disjoint.txt"
+val_data: "Data/cremad_val_list_emo_speaker_disjoint.txt"
+
+dataset_params:
+  mean: -2.963975
+  std:  3.228047
+
+F0_path: "Utils/JDC/bst.t7"
+ASR_config: "Utils/ASR/config.yml"
+ASR_path: "Utils/ASR/epoch_00100.pth"
+
+preprocess_params:
+  sr: 24000
+  spect_params:
+    n_fft: 2048
+    win_length: 1200
+    hop_length: 300
+
+model_params:
+  dim_in: 64
+  style_dim: 64
+  latent_dim: 16
+  num_domains: 5
+  max_conv_dim: 512
+  n_repeat: 4
+  w_hpf: 0
+  F0_channel: 256
+  rank_enable: false
+  rank_hidden_dim: 128
+
+loss_params:
+  g_loss:
+    lambda_sty: 1.
+    lambda_cyc: 5.
+    lambda_ds: 1.
+    lambda_norm: 1.
+    lambda_asr: 10.
+    lambda_f0: 5.
+    lambda_f0_sty: 0.1
+    lambda_adv: 2.
+    lambda_adv_cls: 0.5
+    norm_bias: 0.5
+  d_loss:
+    lambda_reg: 1.
+    lambda_adv_cls: 0.1
+    lambda_con_reg: 10.
+  rank_loss:
+    neutral_label: 2
+    lambda_rank_margin: 0.2
+    lambda_rank_interp: 0.2
+    lambda_rank_mono: 0.1
+    rank_margin: 0.2
+    rank_margin_alpha: 0.05
+    rank_eps: 0.000001
+    intensity_alpha_min: 0.0
+    intensity_alpha_max: 1.0
+
+  adv_cls_epoch: 50
+  con_reg_epoch: 30
+
+optimizer_params:
+  lr: 0.00001 
+  rank_lr: 0.00001
